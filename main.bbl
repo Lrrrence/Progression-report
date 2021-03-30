@@ -1,0 +1,1107 @@
+\begin{thebibliography}{100}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{administrator2015aviation}
+{Federal Aviation Administrator}.
+\newblock Aviation emissions, impacts and mitigation: A primer.
+\newblock \emph{Office of Environment and Energy} 2015; .
+
+\bibitem{zhang2019number}
+Zhang X, Chen X and Wang J.
+\newblock A number-based inventory of size-resolved black carbon particle
+  emissions by global civil aviation.
+\newblock \emph{Nature communications} 2019; 10(1): 534.
+
+\bibitem{Zaghari2020}
+Zaghari B, Weddell AS, Esmaeili K et~al.
+\newblock {High Temperature Self-Powered Sensing System for a Smart Bearing in
+  an Aircraft Jet Engine}.
+\newblock \emph{IEEE Trans Instrum Meas} 2020; :
+  1--1\doi{10.1109/tim.2020.2971288}.
+
+\bibitem{Zaghari2017}
+Zaghari B, Weddell A, White N et~al.
+\newblock {Integrated smart bearings for next generation aero-engines. Part II:
+  Energy harvesting and wireless communication Development}.
+\newblock \emph{WCCM 2017 - 1st World Congr Cond Monit 2017} 2017; .
+
+\bibitem{Kerr2002}
+Kerr C and Ivey P.
+\newblock {An overview of the measurement errors associated with gas turbine
+  aeroengine pyrometer systems}.
+\newblock \emph{Meas Sci Technol} 2002; 13(6): 873--881.
+\newblock \doi{10.1088/0957-0233/13/6/307}.
+
+\bibitem{Becker1994}
+Becker WJ, Roby RJ, O'Brien WF et~al.
+\newblock {Dynamic turbine blade temperature measurements}.
+\newblock \emph{J Propuls Power} 1994; 10(1): 69--78.
+\newblock \doi{10.2514/3.23713}.
+
+\bibitem{Zhou2016}
+Zhou W.
+\newblock {Novel cooling strategies for improved protection of gas turbine
+  blades}.
+\newblock \emph{Grad Theses Diss} 2016;
+  \urlprefix\url{https://lib.dr.iastate.edu/etd/15167}.
+
+\bibitem{Dixon2013}
+Dixon SL and Hall CA.
+\newblock \emph{{Fluid mechanics and thermodynamics of turbomachinery, 7th
+  edition}}.
+\newblock Elsevier, 2013.
+\newblock ISBN 9780124159549.
+\newblock \doi{10.1016/C2011-0-05059-7}.
+
+\bibitem{Heyes2004}
+Heyes AL.
+\newblock \emph{{Thermographic Phosphor thermometry for gas turbines}}.
+\newblock Von Karmen Institute for fluid dynamics, 2004.
+
+\bibitem{Thakare2020}
+Thakare JG, Pandey C, Mahapatra MM et~al.
+\newblock {Thermal Barrier Coatings—A State of the Art Review}.
+\newblock \emph{Met Mater Int} 2020; 1(March).
+\newblock \doi{10.1007/s12540-020-00705-w}.
+\newblock \urlprefix\url{https://doi.org/10.1007/s12540-020-00705-w}.
+
+\bibitem{Feist2001}
+Feist JP.
+\newblock \emph{{Development of phosphor thermometry for gas turbines}}.
+\newblock PhD Thesis, University of London, 2001.
+
+\bibitem{Abdelrhman2014}
+Abdelrhman AM, Hee LM, Leong MS et~al.
+\newblock {Condition monitoring of blade in turbomachinery: A review}.
+\newblock \emph{Adv Mech Eng} 2014; 2014.
+\newblock \doi{10.1155/2014/210717}.
+
+\bibitem{Mevissen2019}
+Mevissen F and Meo M.
+\newblock {A review of NDT/structural health monitoring techniques for hot gas
+  components in gas turbines}.
+\newblock \emph{Sensors (Switzerland)} 2019; 19(3).
+\newblock \doi{10.3390/s19030711}.
+
+\bibitem{AbouNada2016}
+{Abou Nada} F, Lantz A, Larfeldt J et~al.
+\newblock {Remote temperature sensing on and beneath atmospheric plasma sprayed
+  thermal barrier coatings using thermographic phosphors}.
+\newblock \emph{Surf Coatings Technol} 2016; 302: 359--367.
+\newblock \doi{10.1016/j.surfcoat.2016.06.038}.
+\newblock \urlprefix\url{http://dx.doi.org/10.1016/j.surfcoat.2016.06.038}.
+
+\bibitem{Zaghari2017a}
+Zaghari B, Weddell A and White N.
+\newblock {Opportunities and challenges for energy harvesting sensor systems
+  for harsh environments}.
+\newblock In \emph{ENSsys 2017 - Proc. 5th Int. Work. Energy Harvest.
+  Energy-Neutral Sens. Syst. Part SenSys 2017}. New York, New York, USA:
+  Association for Computing Machinery, Inc.
+\newblock ISBN 9781450354776, pp. 40--42.
+\newblock \doi{10.1145/3142992.3143001}.
+\newblock \urlprefix\url{http://dl.acm.org/citation.cfm?doid=3142992.3143001}.
+
+\bibitem{18-guan2019enhanced}
+Guan P, Ai Y and Fei C.
+\newblock An enhanced flow-thermo-structural modeling and validation for the
+  integrated analysis of a film cooling nozzle guide vane.
+\newblock \emph{Energies} 2019; 12(14): 2775.
+
+\bibitem{Findeisen2017}
+Findeisen E, Woerz B, Wieler M et~al.
+\newblock {Evaluation of numerical methods to predict temperature distributions
+  of an experimentally investigated convection-cooled gas-Turbine blade}.
+\newblock \emph{Proc ASME Turbo Expo} 2017; 5B-2017: 1--13.
+\newblock \doi{10.1115/GT2017-64205}.
+
+\bibitem{Peral2019}
+Peral D, Araguas-Rodriguez S, Karagiannopoulos S et~al.
+\newblock {Reliable temperature measurement with thermal history paints: An
+  uncertainty estimation model}.
+\newblock In \emph{Proc. ASME Turbo Expo}, volume~6. American Society of
+  Mechanical Engineers (ASME).
+\newblock ISBN 9780791858677, p.~10.
+\newblock \doi{10.1115/GT2019-92087}.
+
+\bibitem{Yang2015a}
+Yang L and Li ZM.
+\newblock {The Research of Temperature Indicating Paints and its Application in
+  Aero-engine Temperature Measurement}.
+\newblock \emph{Procedia Eng} 2015; 99: 1152--1157.
+\newblock \doi{10.1016/j.proeng.2014.12.697}.
+\newblock \urlprefix\url{http://dx.doi.org/10.1016/j.proeng.2014.12.697}.
+
+\bibitem{Neely2006}
+Neely and Tracy.
+\newblock {Transient Response of Thermal Paints for Use on Short-Duration
+  Hypersonic Flight Tests}.
+\newblock \emph{14th AIAA/AHI Sp Planes Hypersonic Syst Technol Conf} 2006; :
+  1--15.
+
+\bibitem{Lempereur2008}
+Lempereur C, Andral R and Prudhomme JY.
+\newblock {Surface temperature measurement on engine components by means of
+  irreversible thermal coatings}.
+\newblock \emph{Meas Sci Technol} 2008; 19(10).
+\newblock \doi{10.1088/0957-0233/19/10/105501}.
+
+\bibitem{Coleto2006}
+Coleto J, Baus{\'{a}} M, Maudes J et~al.
+\newblock {Phase change materials and thermosensitive painting: Application on
+  smart thermal protection systems}.
+\newblock \emph{AIAA 57th Int Astronaut Congr IAC 2006} 2006; 8: 5276--5287.
+\newblock \doi{10.2514/6.iac-06-c2.5.03}.
+
+\bibitem{Neely2010}
+Neely AJ.
+\newblock \emph{{Thermal Paints for Hypersonic Flight-Test}}.
+\newblock PhD Thesis, University of New South Wales, 2010.
+
+\bibitem{Bird1998}
+Bird C, Mutton J, Shepherd R et~al.
+\newblock {Surface temperature measurements in turbines}.
+\newblock In \emph{AGARD Conf. Proc. 598}. p.~21.
+
+\bibitem{EuropeanParliament2006}
+{European Parliament}.
+\newblock {Regulation (EC) No 1907/2006 - Registration, Evaluation,
+  Authorisation and Restriction of Chemicals (REACH) - Safety and health at
+  work - EU-OSHA}, 2006.
+
+\bibitem{Feist2011}
+Feist, Nicholls and Heyes.
+\newblock {(12) Patent Application Publication (10) Pub. No.: US 2011/0069735
+  A1}, 2011.
+
+\bibitem{KarmakarBiswas2014}
+{Karmakar Biswas} S, Pilgrim CC, Sollazzo PY et~al.
+\newblock {Thermal history paints - principles and progress}.
+\newblock \emph{IET Conf Publ} 2014; 2014(630 CP): 2--7.
+\newblock \doi{10.1049/cp.2014.0538}.
+
+\bibitem{AraguasRodriguez2018a}
+{Aragu{\'{a}}s Rodr{\'{i}}guez} S, Jel{\'{i}}nek T, Mich{\'{a}}lek J et~al.
+\newblock {Accelerated thermal profiling of gas turbine components using
+  luminescent thermal history paints}.
+\newblock \emph{J Glob Power Propuls Soc} 2018; 2: S3KTGK.
+\newblock \doi{10.22261/jgpps.s3ktgk}.
+
+\bibitem{Pilgrim2017}
+Pilgrim CC, {Y{\'{a}}{\~{n}}ez Gonz{\'{a}}lez} A, Saggese R et~al.
+\newblock {Surface temperature measurements in an industrial gas turbine using
+  thermal history paints}.
+\newblock \emph{12th Eur Conf Turbomach Fluid Dyn Thermodyn ETC 2017} 2017; :
+  1--13\doi{10.29008/etc2017-303}.
+
+\bibitem{Rabhiou2011}
+Rabhiou A, Feist J, Kempf A et~al.
+\newblock {Phosphorescent thermal history sensors}.
+\newblock \emph{Sensors Actuators, A Phys} 2011; 169(1): 18--26.
+\newblock \doi{10.1016/j.sna.2011.04.022}.
+\newblock \urlprefix\url{http://dx.doi.org/10.1016/j.sna.2011.04.022}.
+
+\bibitem{Amiel2018}
+Amiel S, Copin E, Sentenac T et~al.
+\newblock {On the thermal sensitivity and resolution of a YSZ:Er3+/YSZ:Eu3+
+  fluorescent thermal history sensor}.
+\newblock \emph{Sensors Actuators, A Phys} 2018; 272: 42--52.
+\newblock \doi{10.1016/j.sna.2018.01.040}.
+\newblock \urlprefix\url{http://dx.doi.org/10.1016/j.sna.2018.01.040}.
+
+\bibitem{Heyes2012}
+Heyes AL, Rabhiou A, Feist JP et~al.
+\newblock {Phosphor based temperature indicating paints}.
+\newblock \emph{Proc ASME Turbo Expo} 2012; 1: 927--933.
+\newblock \doi{10.1115/GT2012-69811}.
+
+\bibitem{Annerfeldt2004}
+Annerfeldt M, Shukin S, Bj{\"{o}}rkman M et~al.
+\newblock {GTX100 Turbine section measurement using a temperature sensitive
+  crystal technique. A comparison with 3D thermal and aerodynamic analysis}.
+\newblock \emph{PowerGen Eur} 2004;
+  \urlprefix\url{https://www.energy.siemens.com/br/pool/hq/energy-topics/pdfs/en/gas-turbines-power-plants/1{\_}GTX{\_}100{\_}Turbine.pdf}.
+
+\bibitem{Fair2008}
+Fair GE, Kerans RJ and Parthasarathy TA.
+\newblock {Thermal history sensor based on glass-ceramics}.
+\newblock \emph{Sensors Actuators, A Phys} 2008; 141(2): 245--255.
+\newblock \doi{10.1016/j.sna.2007.08.031}.
+
+\bibitem{Lo2012}
+Lo KH, Shek CH and Lai J.
+\newblock {Metallurgical Temperature Sensors}.
+\newblock \emph{Recent Patents Mech Eng} 2012; 1(3): 225--232.
+\newblock \doi{10.2174/2212797610801030225}.
+
+\bibitem{Madison2013}
+Madison DP, Miers SA, Barna GL et~al.
+\newblock {Comparison of piston temperature measurement methods: Templugs
+  versus wireless telemetry with thermocouples}.
+\newblock \emph{J Eng Gas Turbines Power} 2013; 135(6).
+\newblock \doi{10.1115/1.4023493}.
+
+\bibitem{Duan2020}
+Duan FL, Xie Z, Ji Z et~al.
+\newblock {Robust Thin-Film Temperature Sensors Embedded on Nozzle Guide Vane
+  Surface}.
+\newblock \emph{AIAA J} 2020; : 1--5\doi{10.2514/1.J058854}.
+
+\bibitem{Kreider1993}
+Kreider KG.
+\newblock {Sputtered high temperature thin film thermocouples}.
+\newblock \emph{J Vac Sci Technol A Vacuum, Surfaces, Film} 1993; 11(4):
+  1401--1405.
+\newblock \doi{10.1116/1.578561}.
+
+\bibitem{Yang2020}
+Yang D, Pankov V, Zhao L et~al.
+\newblock {Laser deposited high temperature thin film sensors for gas
+  turbines}.
+\newblock \emph{Aircr Eng Aerosp Technol} 2020; 92(1): 2--7.
+\newblock \doi{10.1108/AEAT-11-2018-0292}.
+
+\bibitem{Liu2018}
+Liu Y, Ren W, Shi P et~al.
+\newblock {A highly thermostable In2O3/ITO thin film thermocouple prepared via
+  screen printing for high temperature measurements}.
+\newblock \emph{Sensors (Switzerland)} 2018; 18(4).
+\newblock \doi{10.3390/s18040958}.
+
+\bibitem{Zhang2018b}
+Zhang Y, Mack DE, Mauer G et~al.
+\newblock {Laser cladding of embedded sensors for thermal barrier coating
+  applications}.
+\newblock \emph{Coatings} 2018; 8(5): 1--11.
+\newblock \doi{10.3390/coatings8050176}.
+
+\bibitem{Gao2016}
+Gao J, Duan FL, Yu C et~al.
+\newblock {Electrical insulation of ceramic thin film on metallic aero-engine
+  blade for high temperature sensor applications}.
+\newblock \emph{Ceram Int} 2016; 42(16): 19269--19275.
+\newblock \doi{10.1016/j.ceramint.2016.09.093}.
+\newblock \urlprefix\url{http://dx.doi.org/10.1016/j.ceramint.2016.09.093}.
+
+\bibitem{Satish2017}
+Satish TN, Rakesh KP, Uma G et~al.
+\newblock {Functional Validation of K-Type (NiCr-NiMn) Thin Film Thermocouple
+  on Low Pressure Turbine Nozzle Guide Vane (LPT NGV) of Gas Turbine Engine}.
+\newblock \emph{Exp Tech} 2017; 41(2): 131--138.
+\newblock \doi{10.1007/s40799-016-0162-1}.
+
+\bibitem{Ji2019}
+Ji Z, Weng H, Hu M et~al.
+\newblock {Temperature distribution measurements on turbine blade surface by
+  the aid of simple dotted pt/ptrh thermal couple test array}.
+\newblock \emph{AIAA Propuls Energy Forum Expo 2019} 2019; 1(August): 10--13.
+\newblock \doi{10.2514/6.2019-4084}.
+
+\bibitem{Lei1997}
+Lei JF, Martin LC and Will HA.
+\newblock {Advances in thin film sensor technologies for engine applications}.
+\newblock \emph{Proc ASME Turbo Expo} 1997; 4.
+\newblock \doi{10.1115/97-GT-458}.
+
+\bibitem{Guk2016}
+Guk E, Ranaweera M, Venkatesan V et~al.
+\newblock {Performance and durability of thin film thermocouple array on a
+  porous electrode}.
+\newblock \emph{Sensors (Switzerland)} 2016; 16(9).
+\newblock \doi{10.3390/s16091329}.
+
+\bibitem{Kerr2004}
+Kerr C and Ivey P.
+\newblock {Optical pyrometry for gas turbine aeroengines}.
+\newblock \emph{Sens Rev} 2004; 24(4): 378--386.
+\newblock \doi{10.1108/02602280410558412}.
+
+\bibitem{Li2019}
+Li D, Feng C, Daniel K et~al.
+\newblock {Turbine blade temperature error as measured with an optical
+  pyrometer under different wavelengths and blade TBC thickness}.
+\newblock \emph{Appl Opt} 2019; 58(7): 1626.
+\newblock \doi{10.1364/ao.58.001626}.
+
+\bibitem{Yu2009a}
+Yu YB and Chow WK.
+\newblock {Review on an Advanced High-Temperature Measurement Technology: The
+  Optical Fiber Thermometry}.
+\newblock \emph{J Thermodyn} 2009; 2009: 1--11.
+\newblock \doi{10.1155/2009/823482}.
+
+\bibitem{Li2018}
+Li D, Feng C, Gao S et~al.
+\newblock {Effect of pyrometer type and wavelength selection on temperature
+  measurement errors for turbine blades}.
+\newblock \emph{Infrared Phys Technol} 2018; 94(July): 255--262.
+\newblock \doi{10.1016/j.infrared.2018.09.004}.
+\newblock \urlprefix\url{https://doi.org/10.1016/j.infrared.2018.09.004}.
+
+\bibitem{Araujo2017}
+Ara{\'{u}}jo A.
+\newblock {Multi-spectral pyrometry — a review}.
+\newblock \emph{Meas Sci Technol} 2017; 28: 15.
+
+\bibitem{Gentleman2006}
+Gentleman MM, Lughi V, Nychka JA et~al.
+\newblock {Noncontact methods for measuring thermal barrier coating
+  temperatures}.
+\newblock \emph{Int J Appl Ceram Technol} 2006; 3(2): 105--112.
+\newblock \doi{10.1111/j.1744-7402.2006.02069.x}.
+
+\bibitem{Frank2001}
+Frank SL, Holt TO, Eisenlohr H et~al.
+\newblock {Application of a high resolution turbine pyrometer to heavy duty gas
+  turbines}.
+\newblock \emph{Proc ASME Turbo Expo} 2001; 4.
+\newblock \doi{10.1115/2001-GT-0577}.
+
+\bibitem{Wang2015}
+Wang G, Estevadeordal J, Nirmalan N et~al.
+\newblock {Real-time burst signal removal using multicolor pyrometry based
+  filter for improved jet engine control}.
+\newblock \emph{J Turbomach} 2015; 137(8): 1--9.
+\newblock \doi{10.1115/1.4029615}.
+
+\bibitem{Taniguchi2006}
+Taniguchi T, Sanbonsugi K, Ozaki Y et~al.
+\newblock {Temperature measurement of high speed rotating turbine blades using
+  a pyrometer}.
+\newblock \emph{Proc ASME Turbo Expo} 2006; 2: 521--529.
+\newblock \doi{10.1115/GT2006-90247}.
+
+\bibitem{Hellberg}
+Hellberg A.
+\newblock {The Siemens Sgt-750 Gas Turbine : Developed For The Oil And Gas
+  Industry}.
+\newblock \emph{Siemens Ind Turbomachinary} 2018; 1(1): 1--10.
+
+\bibitem{Liu2005}
+Liu T and Sullivan J.
+\newblock \emph{{Pressure and Temperature Sensitive Paints}}.
+\newblock Springer, 2005.
+\newblock ISBN 3540222413.
+\newblock \doi{10.1007/b137841}.
+
+\bibitem{Patel2016}
+Patel MD and Ricklick MA.
+\newblock {In-house Fabrication of Temperature Sensitive Paint for Turbine
+  Cooling Research}.
+\newblock \emph{Beyond Undergrad Res J} 2016; 1(January).
+
+\bibitem{Khalid2008a}
+Khalid AH and Kontis K.
+\newblock {Thermographic phosphors for high temperature measurements:
+  Principles, current state of the art and recent applications}.
+\newblock \emph{Sensors} 2008; 8(9): 5673--5744.
+\newblock \doi{10.3390/s8095673}.
+
+\bibitem{Allison1997}
+Allison SW and Gillies GT.
+\newblock {Remote thermometry with thermographic phosphors: Instrumentation and
+  applications}.
+\newblock \emph{Rev Sci Instrum} 1997; 68(7): 2615--2650.
+\newblock \doi{10.1063/1.1148174}.
+
+\bibitem{Khalid2010}
+Khalid AH, Kontis K and Behtash HZ.
+\newblock {Phosphor thermometry in gas turbines: Consideration factors}.
+\newblock \emph{Proc Inst Mech Eng Part G J Aerosp Eng} 2010; 224(7): 745--755.
+\newblock \doi{10.1243/09544100JAERO560}.
+
+\bibitem{Brubach2013}
+Br{\"{u}}bach J, Pflitsch C, Dreizler A et~al.
+\newblock {On surface temperature measurements with thermographic phosphors: A
+  review}.
+\newblock \emph{Prog Energy Combust Sci} 2013; 39(1): 37--60.
+\newblock \doi{10.1016/j.pecs.2012.06.001}.
+
+\bibitem{Chen2005a}
+Chen X, Mutasim Z, Price J et~al.
+\newblock {Industrial sensor TBCs: Studies on temperature detection and
+  durability}.
+\newblock \emph{Int J Appl Ceram Technol} 2005; 2(5): 414--421.
+\newblock \doi{10.1111/j.1744-7402.2005.02042.x}.
+
+\bibitem{Feist2013}
+Feist JP, Sollazzo PY, Berthier S et~al.
+\newblock {Application of an industrial sensor coating system on a rolls-royce
+  jet engine for temperature detection}.
+\newblock \emph{J Eng Gas Turbines Power} 2013; 135(1): 1--9.
+\newblock \doi{10.1115/1.4007370}.
+
+\bibitem{YanezGonzalez2015}
+{Ya{\~{n}}ez Gonzalez} A, Pilgrim CC, Feist JP et~al.
+\newblock {On-Line Temperature Measurement Inside a Thermal Barrier Sensor
+  Coating During Engine Operation}.
+\newblock \emph{J Turbomach} 2015; 137(10): 1--9.
+\newblock \doi{10.1115/1.4030260}.
+
+\bibitem{Jenkins2020}
+Jenkins TP, Hess CF, Allison SW et~al.
+\newblock {Measurements of turbine blade temperature in an operating aero
+  engine using thermographic phosphors}.
+\newblock \emph{Meas Sci Technol} 2020; 31(4): 044003.
+\newblock \doi{10.1088/1361-6501/ab4c20}.
+
+\bibitem{Eldridge2019}
+Eldridge JI.
+\newblock {Luminescence decay-based Y2O3:Er phosphor thermometry: Temperature
+  sensitivity governed by multiphonon emission with an effective phonon energy
+  transition}.
+\newblock \emph{J Lumin} 2019; 214: 116535.
+\newblock \doi{10.1016/j.jlumin.2019.116535}.
+
+\bibitem{Nau2019}
+Nau P, Yin Z, Lammel O et~al.
+\newblock {Wall Temperature Measurements in Gas Turbine Combustors With
+  Thermographic Phosphors}.
+\newblock \emph{J Eng Gas Turbines Power} 2019; 141(4): 1--12.
+\newblock \doi{10.1115/1.4040716}.
+
+\bibitem{Duan2018}
+Duan FL, Hu M, Ding G et~al.
+\newblock {Development of robust high temperature mems sensor on aero-engine
+  turbine blade surface}.
+\newblock \emph{2018 Jt Propuls Conf} 2018; : 1--7\doi{10.2514/6.2018-4622}.
+
+\bibitem{Mitra2016}
+Mitra M and Gopalakrishnan S.
+\newblock {Guided wave based structural health monitoring: A review}.
+\newblock \emph{Smart Mater Struct} 2016; 25(5).
+\newblock \doi{10.1088/0964-1726/25/5/053001}.
+
+\bibitem{Fatemi1980}
+Fatemi M.
+\newblock {Ultrasonic B-scan imaging: Theory of image formation and a technique
+  for restoration}.
+\newblock \emph{Ultrason Imaging} 1980; 2(1): 1--47.
+\newblock \doi{10.1016/0161-7346(80)90201-1}.
+
+\bibitem{Ruzek2006}
+Rů{\v{z}}ek R, Lohonka R and Jiron{\v{c}} J.
+\newblock {Ultrasonic C-scan and shearography NDI techniques evaluation of
+  impact defects identification}.
+\newblock \emph{NDT E Int} 2006; 39(2): 132--142.
+\newblock \doi{10.1016/j.ndteint.2005.07.012}.
+
+\bibitem{Imielinska2004}
+Imieli{\'{n}}ska K, Castaings M, Wojtyra R et~al.
+\newblock {Air-coupled ultrasonic C-scan technique in impact response testing
+  of carbon fibre and hybrid: Glass, carbon and Kevlar/epoxy composites}.
+\newblock In \emph{J. Mater. Process. Technol.}, volume 157. Elsevier, pp.
+  513--522.
+\newblock \doi{10.1016/j.jmatprotec.2004.07.143}.
+
+\bibitem{Komura2001}
+Komura I, Hirasawa T and Nagai S.
+\newblock {Crack detection and sizing technique by ultrasonic and
+  electromagnetic methods}.
+\newblock \emph{Nucl Eng Des} 2001; 206: 351--362.
+\newblock \doi{10.1007/s11003-011-9382-9}.
+
+\bibitem{Zaghari2013}
+Zaghari B, Humphrey V and Moshrefi-Torbati M.
+\newblock {Dispersion behavior of torsional guided waves in a small diameter
+  steel gas pipe}.
+\newblock \emph{ICAC 2013 - Proc 19th Int Conf Autom Comput Futur Energy Autom}
+  2013; 1(September): 37--42.
+
+\bibitem{Shi2019}
+Shi H, Zhuang L, Xu X et~al.
+\newblock {An ultrasonic guided wave mode selection and excitation method in
+  rail defect detection}.
+\newblock \emph{Appl Sci} 2019; 9(6).
+\newblock \doi{10.3390/app9061170}.
+
+\bibitem{Wang2019}
+Wang Y, Qiu L, Luo Y et~al.
+\newblock {A stretchable and large-scale guided wave sensor network for
+  aircraft smart skin of structural health monitoring}.
+\newblock \emph{Struct Heal Monit} 2019; \doi{10.1177/1475921719850641}.
+
+\bibitem{Dransfeld1970}
+Dransfeld K and Salzmann E.
+\newblock \emph{{Excitation, Detection, and Attenuation of High-Frequency
+  Elastic Surface Waves}}, volume~7.
+\newblock ACADEMIC PRESS, INC., 1970.
+\newblock \doi{10.1016/B978-0-12-395667-5.50010-6}.
+\newblock \urlprefix\url{http://dx.doi.org/10.1016/B978-0-12-395667-5.50010-6}.
+
+\bibitem{2-gajdacsi2014reconstruction}
+Gajdacsi A, Jarvis AJC, Huthwaite P et~al.
+\newblock Reconstruction of temperature distribution in a steel block using an
+  ultrasonic sensor array.
+\newblock \emph{Journal of Nondestructive Evaluation} 2014; 33(3): 458--470.
+
+\bibitem{9R-12-croxford2007strategies}
+Croxford AJ, Wilcox PD, Konstantinidis G et~al.
+\newblock Strategies for overcoming the effect of temperature on guided wave
+  structural health monitoring.
+\newblock In \emph{Health Monitoring of Structural and Biological Systems
+  2007}, volume 6532. International Society for Optics and Photonics, p.
+  65321T.
+
+\bibitem{1R-22-harley2012scale}
+Harley JB and Moura JM.
+\newblock Scale transform signal processing for optimal ultrasonic temperature
+  compensation.
+\newblock \emph{IEEE transactions on ultrasonics, ferroelectrics, and frequency
+  control} 2012; 59(10): 2226--2236.
+
+\bibitem{1R-24-konstantinidis2006temperature}
+Konstantinidis G, Drinkwater BW and Wilcox PD.
+\newblock The temperature stability of guided wave structural health monitoring
+  systems.
+\newblock \emph{Smart Materials and Structures} 2006; 15(4): 967.
+
+\bibitem{1R-26-clarke2010guided}
+Clarke T, Simonetti F and Cawley P.
+\newblock Guided wave health monitoring of complex structures by sparse array
+  systems: Influence of temperature changes on performance.
+\newblock \emph{Journal of Sound and Vibration} 2010; 329(12): 2306--2322.
+
+\bibitem{1R-27-croxford2010efficient}
+Croxford AJ, Moll J, Wilcox PD et~al.
+\newblock Efficient temperature compensation strategies for guided wave
+  structural health monitoring.
+\newblock \emph{Ultrasonics} 2010; 50(4-5): 517--528.
+
+\bibitem{1R-28-wang2014adaptive}
+Wang Y, Gao L, Yuan S et~al.
+\newblock An adaptive filter--based temperature compensation technique for
+  structural health monitoring.
+\newblock \emph{Journal of Intelligent Material Systems and Structures} 2014;
+  25(17): 2187--2198.
+
+\bibitem{1R-li2018new}
+Li D, Shi M, Xu F et~al.
+\newblock A new approach to guided wave ray tomography for temperature-robust
+  damage detection using piezoelectric sensors.
+\newblock \emph{Sensors} 2018; 18(10): 3518.
+
+\bibitem{1R-20-liu2016baseline}
+Liu G, Xiao Y, Zhang H et~al.
+\newblock Baseline signal reconstruction for temperature compensation in lamb
+  wave-based damage detection.
+\newblock \emph{Sensors} 2016; 16(8): 1273.
+
+\bibitem{9-mariani2019compensation}
+Mariani S, Heinlein S and Cawley P.
+\newblock Compensation for temperature-dependent phase and velocity of guided
+  wave signals in baseline subtraction for structural health monitoring.
+\newblock \emph{Structural Health Monitoring} 2019; : 1475921719835155.
+
+\bibitem{9R-16-herdovics2019compensation}
+Herdovics B and Cegla F.
+\newblock Compensation of phase response changes in ultrasonic transducers
+  caused by temperature variations.
+\newblock \emph{Structural Health Monitoring} 2019; 18(2): 508--523.
+
+\bibitem{Lynnworth1990}
+Lynnworth LC and Papadakis EP.
+\newblock \emph{{Ultrasonic Measurements for Process Control: Theory,
+  Techniques , Applications}}, volume~88.
+\newblock ACADEMIC PRESS, INC., 1990.
+\newblock ISBN 0124605850.
+\newblock \doi{10.1121/1.399906}.
+
+\bibitem{Davis2008}
+Davis CE, Dickherber AJ, Hunt WD et~al.
+\newblock {In situ acoustic temperature measurement during variable-frequency
+  microwave curing}.
+\newblock \emph{IEEE Trans Electron Packag Manuf} 2008; 31(4): 273--284.
+\newblock \doi{10.1109/TEPM.2008.2004570}.
+
+\bibitem{Takahashi2008}
+Takahashi M and Ihara I.
+\newblock {Ultrasonic determination of temperature distribution in thick plates
+  during single sided heating}.
+\newblock \emph{Mod Phys Lett B} 2008; 22(11): 971--976.
+\newblock \doi{10.1142/S0217984908015693}.
+
+\bibitem{Jia2016}
+Jia Y and Skliar M.
+\newblock {Noninvasive Ultrasound Measurements of Temperature Distribution and
+  Heat Fluxes in Solids}.
+\newblock \emph{Energy and Fuels} 2016; 30(5): 4363--4371.
+\newblock \doi{10.1021/acs.energyfuels.6b00054}.
+
+\bibitem{Skliar2015}
+Skliar M.
+\newblock {IN-SITU ACOUSTIC MEASUREMENTS OF TEMPERATURE PROFILE IN EXTREME
+  ENVIRONMENTS}.
+\newblock Technical report, Department of Energy National Energy Technology
+  Laboratory, University of Utah, 2015.
+
+\bibitem{Jia2019}
+Jia Y and Skliar M.
+\newblock {Ultrasonic Measurements of Temperature Distribution and Heat Fluxes
+  Across Containments of Extreme Environments}.
+\newblock \emph{IEEE Int Ultrason Symp IUS} 2019; 2019-Octob: 940--943.
+\newblock \doi{10.1109/ULTSYM.2019.8925643}.
+
+\bibitem{Jeffrey2019}
+Jeffrey T, Jack D and Moore D.
+\newblock {Listening to temperature: Ultrasonic non-destructive identification
+  of material phase and temperature}.
+\newblock \emph{AIP Conf Proc} 2019; 2102(May).
+\newblock \doi{10.1063/1.5099721}.
+
+\bibitem{Balasubramaniam1999}
+Balasubramaniam K, Shah VV, Costley RD et~al.
+\newblock {High temperature ultrasonic sensor for the simultaneous measurement
+  of viscosity and temperature of melts}.
+\newblock \emph{Rev Sci Instrum} 1999; 70(12): 4618--4623.
+\newblock \doi{10.1063/1.1150123}.
+
+\bibitem{Hashmi2015}
+Hashmi A, Malakoutikhah M, Light R et~al.
+\newblock {Embedded Supervisory Control and Output Reporting for the
+  Oscillating Ultrasonic Temperature Sensors}.
+\newblock \emph{Adv Intell Syst Comput} 2015; 348: 139--150.
+\newblock \doi{10.1007/978-3-319-18503-3}.
+
+\bibitem{Hashmi2019}
+Hashmi A and Kalashnikov AN.
+\newblock {Sensor data fusion for responsive high resolution ultrasonic
+  temperature measurement using piezoelectric transducers}.
+\newblock \emph{Ultrasonics} 2019; 99(July): 105969.
+\newblock \doi{10.1016/j.ultras.2019.105969}.
+\newblock \urlprefix\url{https://doi.org/10.1016/j.ultras.2019.105969}.
+
+\bibitem{Alzebda2010}
+Alzebda S and Kalashnikov AN.
+\newblock {Ultrasonic sensing of temperature of liquids using inexpensive
+  narrowband piezoelectric transducers}.
+\newblock \emph{IEEE Trans Ultrason Ferroelectr Freq Control} 2010; 57(12):
+  2704--2711.
+\newblock \doi{10.1109/TUFFC.2010.1744}.
+
+\bibitem{Lee1994a}
+Lee YJ, Khuri-Yakub BT and Saraswat KC.
+\newblock {Temperature measurement in rapid thermal processing using acoustic
+  techniques}.
+\newblock \emph{Rev Sci Instrum} 1994; 65(4): 974--976.
+\newblock \doi{10.1063/1.1144929}.
+
+\bibitem{Lee1996}
+Lee YJ and Butrus T.
+\newblock {Temperature measurement in rapid thermal processing using the
+  acoustic temperature sensor}.
+\newblock \emph{Solid State Technol} 1997; 40(4): 63--74.
+\newblock \doi{10.1557/proc-470-3}.
+
+\bibitem{Klimek1998}
+Klimek D, Anthony B, Abbate A et~al.
+\newblock {Laser Ultrasonic Instrumentation For Accurate Temperature
+  Measurement Of Silicon Wafers In Rapid Thermal Processing Systems}.
+\newblock \emph{Mater Res Soc} 1998; 525: 135--140.
+
+\bibitem{PereiraDaCunha2011}
+{Pereira Da Cunha} M, Lad RJ, Moonlight T et~al.
+\newblock {Recent advances in harsh environment acoustic wave sensors for
+  contemporary applications}.
+\newblock \emph{Proc IEEE Sensors} 2011; :
+  614--617\doi{10.1109/ICSENS.2011.6126948}.
+
+\bibitem{Dong2019}
+Dong W, Ji X, Huang J et~al.
+\newblock {Sensitivity enhanced temperature sensor: One-port 2D surface
+  phononic crystal resonator based on AlN/sapphire}.
+\newblock \emph{Semicond Sci Technol} 2019; 34(5).
+\newblock \doi{10.1088/1361-6641/ab0a82}.
+
+\bibitem{Ida2014}
+Ida N.
+\newblock \emph{{Sensors, actuators, and their interfaces}}.
+\newblock Edison, NJ: Scitech, 2014.
+\newblock ISBN 9781613530061.
+
+\bibitem{Zhang2017a}
+Zhang S, Li X and Jeong H.
+\newblock {Measurement of Rayleigh wave beams using angle beam wedge
+  transducers as the transmitter and receiver with consideration of beam
+  spreading}.
+\newblock \emph{Sensors (Switzerland)} 2017; 17(6).
+\newblock \doi{10.3390/s17061449}.
+
+\bibitem{Khalili2016}
+Khalili P and Cawley P.
+\newblock {Excitation of Single Mode Lamb Waves at High Frequency Thickness
+  Products}.
+\newblock \emph{IEEE Trans Ultrason Ferroelectr Freq Control} 2016; 63(2):
+  1--10.
+
+\bibitem{Mei2019}
+Mei H, Haider MF, Joseph R et~al.
+\newblock {Recent advances in piezoelectric wafer active sensors for structural
+  health monitoring applications}.
+\newblock \emph{Sensors (Switzerland)} 2019; 19(2).
+\newblock \doi{10.3390/s19020383}.
+
+\bibitem{Giurgiutiu2003a}
+Giurgiutiu V.
+\newblock {Lamb wave generation with piezoelectric wafer active sensors for
+  structural health monitoring}.
+\newblock \emph{Smart Struct Mater 2003 Smart Struct Integr Syst} 2003;
+  5056(August 2003): 111.
+\newblock \doi{10.1117/12.483492}.
+
+\bibitem{Ren2017}
+Ren B and Lissenden CJ.
+\newblock {A fully coupled model for actuation of higher order modes of Lamb
+  waves}.
+\newblock \emph{AIP Conf Proc} 2017; 1806(February 2017).
+\newblock \doi{10.1063/1.4974577}.
+
+\bibitem{Parks2013}
+Parks DA, Zhang S and Tittmann B.
+\newblock {High-temperature ({\textgreater}500?? C) ultrasonic transducers: An
+  experimental comparison among three candidate piezoelectric materials}.
+\newblock \emph{IEEE Trans Ultrason Ferroelectr Freq Control} 2013; 60(5):
+  1010--1015.
+\newblock \doi{10.1109/TUFFC.2013.2659}.
+
+\bibitem{Cegla2011a}
+Cegla FB, Peter C, Jonathan A et~al.
+\newblock {Monitoring Using Dry-Coupled Ultrasonic Waveguide Transducers}.
+\newblock \emph{IEEE Trans Ultrason Ferroelcetrics Freq Control} 2011; 58(1):
+  156--167.
+
+\bibitem{LeventDegertekin1997}
+{Levent Degertekin} F and Khuri-Yakub BT.
+\newblock {Lamb wave excitation by hertzian contacts with applications in NDE}.
+\newblock \emph{IEEE Trans Ultrason Ferroelectr Freq Control} 1997; 44(4):
+  769--779.
+\newblock \doi{10.1109/58.655191}.
+
+\bibitem{Grimberg2010}
+Grimberg R, Savin A, Steigmann R et~al.
+\newblock {Determination of Elastic Properties of CFRP Using Lamb Waves
+  Resonant Spectroscopy}.
+\newblock \emph{NDT Aerosp} 2010; 1(March 2015): 5--12.
+
+\bibitem{Willsch2004a}
+Willsch M, Bosselmann T and Theune NM.
+\newblock {New approaches for the monitoring of gas turbine blades and vanes}.
+\newblock \emph{Proc IEEE Sensors} 2004; 1: 20--23.
+\newblock \doi{10.1109/icsens.2004.1426089}.
+
+\bibitem{Khalili2018c}
+Khalili P and Cawley P.
+\newblock {Relative Ability of Wedge-Coupled Piezoelectric and Meander Coil
+  EMAT Probes to Generate Single-Mode Lamb Waves}.
+\newblock \emph{IEEE Trans Ultrason Ferroelectr Freq Control} 2018; 65(4):
+  648--656.
+\newblock \doi{10.1109/TUFFC.2018.2800296}.
+
+\bibitem{Kim2019a}
+Kim T, Chang WY, Kim H et~al.
+\newblock {Narrow band photoacoustic lamb wave generation for nondestructive
+  testing using candle soot nanoparticle patches}.
+\newblock \emph{Appl Phys Lett} 2019; 115(10).
+\newblock \doi{10.1063/1.5100292}.
+
+\bibitem{4-jiang2014high}
+Jiang X, Kim K, Zhang S et~al.
+\newblock High-temperature piezoelectric sensing.
+\newblock \emph{Sensors} 2014; 14(1): 144--169.
+
+\bibitem{12-fachberger2004properties}
+Fachberger R, Bruckner G, Hauser R et~al.
+\newblock Properties of radio frequency rayleigh waves on langasite at elevated
+  temperatures.
+\newblock In \emph{IEEE Ultrasonics Symposium, 2004}, volume~2. IEEE, pp.
+  1223--1226.
+
+\bibitem{9R-18-hurst2015real}
+Hurst AM, Carter S, Firth D et~al.
+\newblock Real-time, advanced electrical filtering for pressure transducer
+  frequency response correction.
+\newblock In \emph{ASME Turbo Expo 2015: Turbine Technical Conference and
+  Exposition}. American Society of Mechanical Engineers, pp.
+  V006T05A015--V006T05A015.
+
+\bibitem{9R-14-ha2010adhesive}
+Ha S, Lonkar K, Mittal A et~al.
+\newblock Adhesive layer effects on pzt-induced lamb waves at elevated
+  temperatures.
+\newblock \emph{Structural Health Monitoring} 2010; 9(3): 247--256.
+
+\bibitem{Turner1994}
+Turner RC, Fuierer PA, Newnham RE et~al.
+\newblock {Materials for high temperature acoustic and vibration sensors: A
+  review}.
+\newblock \emph{Appl Acoust} 1994; 41(4): 299--324.
+\newblock \doi{10.1016/0003-682X(94)90091-4}.
+
+\bibitem{Tressler1998}
+Tressler JF, Alkoy S and Newnham RE.
+\newblock {Piezoelectric sensors and sensor materials}.
+\newblock \emph{J Electroceramics} 1998; 2(4): 257--272.
+\newblock \doi{10.1023/A:1009926623551}.
+
+\bibitem{Tittmann2013}
+Tittmann BR, Parks DA and Zhang SO.
+\newblock {High Temperature Piezoelectrics - A Comparison}.
+\newblock \emph{13th Int Symp Nondestruct Characterisation Mater} 2013; 1(May):
+  20--24.
+
+\bibitem{Jiang2013b}
+Jiang X, Kim K, Zhang S et~al.
+\newblock {High-temperature piezoelectric sensing}.
+\newblock \emph{Sensors (Switzerland)} 2013; 14(1): 144--169.
+\newblock \doi{10.3390/s140100144}.
+
+\bibitem{Schulz2003}
+Schulz MJ, Sundaresan MJ, Mcmichael J et~al.
+\newblock {Journal of Intelligent Material Systems and Structures Piezoelectric
+  Materials at Elevated Temperature}.
+\newblock \emph{J Intell Mater Syst Struct} 2003; 14(November).
+\newblock \doi{10.1177/104538903038577}.
+
+\bibitem{Zhang2011}
+Zhang S and Yu F.
+\newblock {Piezoelectric materials for high temperature sensors}.
+\newblock \emph{J Am Ceram Soc} 2011; 94(10): 3153--3170.
+\newblock \doi{10.1111/j.1551-2916.2011.04792.x}.
+
+\bibitem{Zhang2018}
+Zhang S, Li F, Yu F et~al.
+\newblock {Recent developments in piezoelectric crystals}.
+\newblock \emph{J Korean Ceram Soc} 2018; 55(5): 419--439.
+\newblock \doi{10.4191/kcers.2018.55.5.12}.
+
+\bibitem{stevenson2015piezoelectric}
+Stevenson T, Martin DG, Cowin PI et~al.
+\newblock Piezoelectric materials for high temperature transducers and
+  actuators.
+\newblock \emph{Journal of Materials Science: Materials in Electronics} 2015;
+  26(12): 9256--9267.
+
+\bibitem{zu2016high}
+Zu H, Wu H and Wang QM.
+\newblock High-temperature piezoelectric crystals for acoustic wave sensor
+  applications.
+\newblock \emph{IEEE transactions on ultrasonics, ferroelectrics, and frequency
+  control} 2016; 63(3): 486--505.
+
+\bibitem{zhang2008characterization}
+Zhang S, Fei Y, Chai B et~al.
+\newblock Characterization of piezoelectric single crystal $\mathrm{YCa}_4
+  \mathrm{O}(\mathrm{BO}_3)_3$ for high temperature applications.
+\newblock \emph{Applied Physics Letters} 2008; 92(20): 202905.
+
+\bibitem{Kim2015}
+Kim T, Kim J, Dalmau R et~al.
+\newblock {High-temperature electromechanical characterization of AlN single
+  crystals}.
+\newblock \emph{IEEE Trans Ultrason Ferroelectr Freq Control} 2015; 62(10):
+  1880--1887.
+\newblock \doi{10.1109/TUFFC.2015.007252}.
+
+\bibitem{Kim2018a}
+Kim T, Kim J and Jiang X.
+\newblock {AlN ultrasound sensor for photoacoustic lamb wave detection in a
+  higherature environment}.
+\newblock \emph{IEEE Trans Ultrason Ferroelectr Freq Control} 2018; 65(8):
+  1444--1451.
+\newblock \doi{10.1109/TUFFC.2018.2839034}.
+
+\bibitem{Tittmann2013a}
+Tittmann B, Parks DA and Zhang SO.
+\newblock {High Temperature Piezoelectrics - A Comparison}.
+\newblock \emph{13th Int Symp Nondestruct Characterisation Mater} 2013; (May):
+  20--24.
+
+\bibitem{Rose2014}
+Rose JL.
+\newblock \emph{{Ultrasonic guided waves in solid media}}, volume 9781107048.
+\newblock Cambridge University Press, 2014.
+\newblock ISBN 9781107273610.
+\newblock \doi{10.1017/CBO9781107273610}.
+
+\bibitem{Su2009a}
+Su Z and Ye L.
+\newblock \emph{{Identification of Damage Using Lamb Waves: From Fundamentals
+  to Applications}}, volume~48.
+\newblock Springer, 2009.
+\newblock ISBN 9781848827837.
+\newblock \doi{10.1007/ 978-1-84882-784-4}.
+
+\bibitem{Cheeke2000a}
+Cheeke JDN.
+\newblock \emph{{Fundamentals and applications of ultrasonic waves}}.
+\newblock 1 ed. CRC Press, 2000.
+\newblock ISBN 0849301300.
+
+\bibitem{Abdullaev2019}
+Abdullaev RN, Khairulin RA, Stankus SV et~al.
+\newblock {Density and volumetric expansion of the Inconel 718 alloy in solid
+  and liquid states}.
+\newblock \emph{Thermophys Aeromechanics} 2019; 26(5): 785--788.
+\newblock \doi{10.1134/S0869864319050160}.
+
+\bibitem{SpecialMetals2007}
+{Special Metals}.
+\newblock {IN718 Datasheet}, 2007.
+\newblock \doi{SMC-066}.
+\newblock
+  \urlprefix\url{https://www.specialmetals.com/assets/smc/documents/inconel{\_}alloy{\_}718.pdf}.
+
+\bibitem{Abbas2020a}
+Abbas S, Li F, Qiu J et~al.
+\newblock {Optimization of ultrasonic guided wave inspection in structural
+  health monitoring based on thermal sensitivity evaluation}.
+\newblock \emph{J Low Freq Noise Vib Act Control} 2020;
+  \doi{10.1177/1461348419886189}.
+
+\bibitem{9R-10-weaver2000temperature}
+Weaver RL and Lobkis OI.
+\newblock Temperature dependence of diffuse field phase.
+\newblock \emph{Ultrasonics} 2000; 38(1-8): 491--494.
+
+\bibitem{Dodson2013}
+Dodson JC and Inman DJ.
+\newblock {Thermal sensitivity of Lamb waves for structural health monitoring
+  applications}.
+\newblock \emph{Ultrasonics} 2013; 53(3): 677--685.
+\newblock \doi{10.1016/j.ultras.2012.10.007}.
+\newblock \urlprefix\url{http://dx.doi.org/10.1016/j.ultras.2012.10.007}.
+
+\bibitem{Marzani2012}
+Marzani A and Salamone S.
+\newblock {Numerical prediction and experimental verification of temperature
+  effect on plate waves generated and received by piezoceramic sensors}.
+\newblock \emph{Mech Syst Signal Process} 2012; 30: 204--217.
+\newblock \doi{10.1016/j.ymssp.2011.11.003}.
+\newblock \urlprefix\url{http://dx.doi.org/10.1016/j.ymssp.2011.11.003}.
+
+\bibitem{Croxford2007a}
+Croxford AJ, Wilcox PD, Drinkwater BW et~al.
+\newblock {Strategies for guided-wave structural health monitoring}.
+\newblock \emph{Proc R Soc A Math Phys Eng Sci} 2007; 463(2087): 2961--2981.
+\newblock \doi{10.1098/rspa.2007.0048}.
+
+\bibitem{Moll2019}
+Moll J, Kexel C, P{\"{o}}tzsch S et~al.
+\newblock {Temperature affected guided wave propagation in a composite plate
+  complementing the Open Guided Waves Platform}.
+\newblock \emph{Sci data} 2019; 6(1): 191.
+\newblock \doi{10.1038/s41597-019-0208-1}.
+
+\bibitem{Huber}
+Huber A.
+\newblock {The Dispersion Calculator}, 2020.
+\newblock
+  \urlprefix\url{https://www.dlr.de/zlp/en/desktopdefault.aspx/tabid-14332/24874{\_}read-61142/{\#}/gallery/33485}.
+
+\bibitem{Espinosa2018}
+Espinosa L, Bacca J, Prieto F et~al.
+\newblock {Accuracy on the time-of-flight estimation for ultrasonic waves
+  applied to non-destructive evaluation of standing trees: A comparative
+  experimental study}.
+\newblock \emph{Acta Acust united with Acust} 2018; 104(3): 429--439.
+\newblock \doi{10.3813/AAA.919186}.
+
+\bibitem{Svilainis2013}
+Svilainis L.
+\newblock {Review of high resolution time of flight estimation techniques for
+  ultrasonic signals}.
+\newblock \emph{52nd Annu Conf Br Inst Non-Destructive Test 2013, NDT 2013}
+  2013; 1(September 2013): 231--242.
+
+\bibitem{Jia2019a}
+Jia L, Xue B, Chen S et~al.
+\newblock {A high-resolution ultrasonic ranging system using laser sensing and
+  a cross-correlation method}.
+\newblock \emph{Appl Sci} 2019; 9(7).
+\newblock \doi{10.3390/app9071483}.
+
+\bibitem{Khyam2017}
+Khyam MO, Ge SS, Li X et~al.
+\newblock {Highly Accurate Time-of-Flight Measurement Technique Based on
+  Phase-Correlation for Ultrasonic Ranging}.
+\newblock \emph{IEEE Sens J} 2017; 17(2): 434--443.
+\newblock \doi{10.1109/JSEN.2016.2631244}.
+
+\bibitem{Costa-Junior2018}
+Costa-J{\'{u}}nior JF, Cortela GA, Maggi LE et~al.
+\newblock {Measuring uncertainty of ultrasonic longitudinal phase velocity
+  estimation using different time-delay estimation methods based on
+  cross-correlation: Computational simulation and experiments}.
+\newblock \emph{Meas J Int Meas Confed} 2018; 122(May 2017): 45--56.
+\newblock \doi{10.1016/j.measurement.2018.01.073}.
+\newblock \urlprefix\url{https://doi.org/10.1016/j.measurement.2018.01.073}.
+
+\bibitem{Wilcox2004}
+Wilcox P.
+\newblock {Modeling the Excitation of Lamb and SH Waves by Point and Line
+  Sources}.
+\newblock In \emph{AIP Conf. Proc. 700}, volume 206.
+\newblock ISBN 073540173X, pp. 206--213.
+\newblock \doi{10.1063/1.1711626}.
+
+\bibitem{Wilcox2003}
+Wilcox PD.
+\newblock {A rapid signal processing technique to remove the effect of
+  dispersion from guided wave signals}.
+\newblock \emph{IEEE Trans Ultrason Ferroelectr Freq Control} 2003; 50(4):
+  419--427.
+\newblock \doi{10.1109/TUFFC.2003.1197965}.
+
+\bibitem{Jayaraman2009a}
+Jayaraman C, Balasubramaniam K and Krishnamurthy CV.
+\newblock {HIGHER ORDER MODES CLUSTER (HOMC) GUIDED WAVES — A NEW TECHNIQUE
+  FOR NDT INSPECTION}.
+\newblock In \emph{AIP Conf. Proc. 1096}, volume 121.
+
+\bibitem{Swaminathan2011}
+Swaminathan AA, Balasubramaniam BK, Anto CI et~al.
+\newblock {Higher Order Mode Cluster ( HOMC ) guided wave testing of corrosion
+  under pipe supports ( CUPS )}.
+\newblock \emph{Proc Natl Semin Exhib Non-Destructive Eval} 2011; : 224--227.
+
+\bibitem{Chandrasekaran2010a}
+Chandrasekaran J, Krishnamurthy CV and Balasubramaniam K.
+\newblock {Axial higher order modes cluster (A-HOMC) guided wave for pipe
+  inspection}.
+\newblock \emph{AIP Conf Proc} 2010; 1211(2010): 161--168.
+\newblock \doi{10.1063/1.3362262}.
+
+\bibitem{Balasubramaniam2008}
+Balasubramaniam K, Chandrasekaran J, Maxfield et~al.
+\newblock {Imaging Hidden Corrosion Using Ultrasonic Non- Dispersive Higher
+  Order Guided Wave Modes}.
+\newblock In \emph{AIP Conf. Proc.}, volume 975.
+
+\bibitem{Verma2011}
+Verma B, Annamalai S and Rajagopal P.
+\newblock {The Effect Of Curvature On The Scattering Of Circumferential Higher
+  Order Mode Cluster (C- HOMC) From Changes In Cross-Section}.
+\newblock In \emph{Proc. Natl. Semin. Exhib. Non-Destructive Eval.}
+
+\bibitem{SriHarshaReddy2017a}
+{Sri Harsha Reddy} K, Rajagopal P, Balasubramaniam K et~al.
+\newblock {Interaction of Higher Order Modes Cluster (HOMC) guided waves with
+  notch-like defects in plates}.
+\newblock \emph{AIP Conf Proc} 2017; 1806(February).
+\newblock \doi{10.1063/1.4974583}.
+
+\bibitem{Hopkins2012}
+Hopkins DC, Baltis T, Pitaress JM et~al.
+\newblock {Extreme thermal transient stress analysis with pre-stress in a metal
+  matrix composite power package}.
+\newblock \emph{Proc - IMAPS Int Conf Exhib High Temp Electron HiTEC 2012}
+  2012; (February 2016): 361--372.
+\newblock \doi{10.4071/HITEC-2012-THA25}.
+
+\end{thebibliography}
