@@ -26,7 +26,6 @@
 \usepackage[margin=10pt,font=small,labelfont=bf,
 labelsep=endash]{caption}
 
-
 \definecolor{barblue}{RGB}{153,204,254}
 \definecolor{groupblue}{RGB}{51,102,254}
 \definecolor{linkred}{RGB}{165,0,33} 
@@ -506,15 +505,8 @@ k = \frac{\delta \text{c}}{\delta \text{T}}
 \newpage
 
 \section{Experimental study}
-\subsection{Method}
 
-\begin{figure}[!htb]
-    \centering
-    \includegraphics[width=\columnwidth]{main setup.jpg}
-    \caption{Test setup.}\label{fig:testsetup}
-\end{figure}
-
-The $S_0$ Lamb wave mode has been excited in an aluminium plate using a piezoelectric transducer attached to an acrylic wedge (Olympus variable angle wedge), which is coupled to the plate with a liquid couplant (Figure~\ref{fig:testsetup}). The wedge allows careful selection of excitation angle so that only the $S_0$ mode is excited. The angle is determined based on Snell’s law:
+The $S_0$ Lamb wave mode has been excited in an aluminium plate using a piezoelectric transducer attached to an acrylic wedge (Olympus variable angle wedge), which is coupled to the plate with a liquid couplant (Figures \ref{fig:testdiagram} \& \ref{fig:testsetup}). The wedge allows careful selection of excitation angle so that only the $S_0$ mode is excited. The angle is determined based on Snell’s law:
 %
 \begin{equation} 
 \text{Angle}\ \theta = \text{Sin}^{- 1} \left( \frac{\text{Longitudinal\ wedge\ velocity}}{\text{Lamb\ wave\ phase\ velocity}} \right)
@@ -524,31 +516,66 @@ The $S_0$ Lamb wave mode has been excited in an aluminium plate using a piezoele
 31{^\circ} = \text{Sin}^{- 1} \left( \frac{2720}{5258} \right)
 \end{equation} 
 %
-The $A_0$ mode cannot be excited using this method as it’s phase velocity at this frequency (2312 m s$^{-1}$) is slower than the longitudinal velocity of the wedge. If the $A_0$ mode is present in the signal it will not affect measurement of the $S_0$ mode as it’s group velocity is significantly different than that of the $S_0$ mode, which will cause a distinct second wave packet. A signal generator (Hewlett Packard 33120A) has been used to generate a 5-cycle tone burst at 1 MHz, which is transmitted through the plate and received by an identical transducer and wedge in a pitch-catch configuration. Time of flight (ToF) is measured between transducers using a cross-correlation function. Wave velocity is calculated from the distance between transducers. The propagation time through the wedges has been subtracted from the total ToF to ensure that only the propagation time through the plate is measured. Based on a sampling rate of 5$\times$10$^8$ the theoretical maximum temporal resolution is 2 ns. This is equal to a velocity resolution of $\pm$0.35 m s$^{-1}$.
+The $A_0$ mode cannot be excited using this method as it’s phase velocity at this frequency (2312 m s$^{-1}$) is slower than the longitudinal velocity of the wedge. If the $A_0$ mode is present in the signal it will not affect measurement of the $S_0$ mode as it’s group velocity is significantly different than that of the $S_0$ mode, which will cause a distinct second wave packet. A signal generator (Hewlett Packard 33120A) has been used to generate a 10-cycle tone burst at 1 MHz, which is transmitted through the plate and received by an identical transducer and wedge in a pitch-catch configuration. Time of flight ($t_F$) is measured between transducers using a cross-correlation function. Wave velocity is calculated from the distance between transducers. Based on a sampling rate of 5 $\times$ 10$^8$ the theoretical maximum temporal resolution is 2 ns. This is equal to a velocity resolution of $\pm$ 0.35 m s$^{-1}$. The propagation time through the wedges at each temperature has been subtracted from the total $t_F$ to ensure that only the propagation time through the plate is measured. Wave velocity is calculated using equation \ref{velocitycalc}/\ref{velocitycalcfull}. 
+%
+\begin{equation} \label{velocitycalc}
+v = \frac{d}{t_F}
+\end{equation} 
+%
+\begin{equation} \label{velocitycalcfull}
+v = \left( \frac{d\;\text{between wedges} + d\;\text{wedge foot offset}}{\text{Total}\;t_F - \text{Wedge-to-wedge}\;t_F} \right)
+\end{equation} 
+%
 \\
-In future the temperature of the aluminium plate will be controlled using a hot plate (figure~\ref{fig:testdiagram}) and raised from room temperature to 160\si{\degreeCelsius} (just below the melting point of the wedges). The temperature of the plate will be monitored using thermocouples. This system needs further work to eliminate the effect of temperature on the perspex wedges, which is causing a much larger change in calculated wave velocity than expected. To demonstrate the capability of the system a different test has been carried out. The temperature of only the plate has been reduced using freeze spray applied to the area between wedges.
+Where the $d$ wedge foot offset is 0.0425 m. Measurements have been carried out at multiple temperatures (20\si{\degreeCelsius}--100\si{\degreeCelsius} in $\sim$10\si{\degreeCelsius} increments).
 
-\begin{figure}[!htb]
+\begin{figure}[ht]
     \centering
-    \includegraphics[width=\columnwidth]{testdiagram.eps}
-    \caption{Diagram of test setup and $S_0$ mode wave propagation.}\label{fig:testdiagram}
+    \includegraphics[width=.8\textwidth]{waveformxcorr.eps}
+    \caption{Time of flight ($t_F$) measurement using cross-correlation function at room temperature.}\label{fig:waveforms}
 \end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=.8\textwidth]{testdiagramsimple.eps}
+    \caption{Cross-sectional diagram of test setup.}\label{fig:testdiagram}
+\end{figure}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=.8\textwidth]{hjkhh7UmEx.png}
+    \caption{Photograph of test setup.}\label{fig:testsetup}
+\end{figure}
+
+\subsection{Test Method}
+
+The temperature of the hot plate is raised to the desired temperature. The temperature of the aluminium plate is monitored using thermocouples. The total $t_F$ is measured until it stabilises. The temperature of the entire system must be allowed to stabilise before taking the measurement to ensure that the temperature of the wedge is the same as the plate. Total $t_F$ is now measured for the set temperature. Multiple measurements are taken after adjusting wedge position. Wedges are removed from the surface and placed together to measure the wedge-to-wedge $t_F$. Multiple measurements are taken after adjusting wedge position. The $t_F$ measurement process is repeated after allowing the total $t_F$ to re-stabilise. Velocity is calculated using equation \ref{velocitycalcfull}. A mean average is calculated from the results of the repeated total $t_F$ measurements, and velocity is calculated for every wedge-to-wedge result. An average velocity is calculated along with standard deviation. Results are shown in figure \ref{fig:result}.
+
+The temperature gradient across the plate has been measured by placing four equally spaced thermocouples along the transmission path, from the centre of the plate to the furthest edge of the wedge transducer in 3 cm increments. The gradient is assumed to be the same on both sides of the plate. The gradient is shown to be almost linear (r$^2$=0.9967) across this distance. An average temperature has been calculated for the total transmission path at each hot plate temperature setting. 
 
 \subsection{Results}
 
-Figure~\ref{fig:freeze} shows the change in ToF as the temperature of the aluminium plate is lowered from room temperature (23\si{\degreeCelsius}) down to between -10\si{\degreeCelsius} and -35\si{\degreeCelsius} using freeze spray, and then allowed to increase back to room temperature. The distance between wedges is 0.1 m. Temperature is measured in two locations, under the plate and on top of the plate, both equidistant from the wedges. Subtracting the ToF through the wedges (31.246 \si{\micro\second}) from the overall ToF (57.616 \si{\micro\second}) at room temperature (23\si{\degreeCelsius}), the wave velocity can be calculated from equation~\ref{tofcalc}, where $d$ is equal to 0.133 m (0.1 m + the additional distance travelled under each wedge). The wave velocity in this case is 5043.61 m s$^{-1}$. This corresponds to the predicted wave velocity of the $S_0$ mode as seen in figure~\ref{fig:alu1mhz}.
-
-\begin{figure}[!htb]
+\begin{figure}[ht]
     \centering
-    \includegraphics[width=\columnwidth]{freeze.eps}
-    \caption{Time of flight change with temperature when aluminium plate is cooled with freeze spray.}\label{fig:freeze}
+    \includegraphics[width=.8\textwidth]{aluplatemeasured.eps}
+    \caption{Group velocity change with temperature for the $S_0$ mode in Aluminium 1050 H14.}\label{fig:result}
 \end{figure}
+
+Figure \ref{fig:result} shows experimentally measured wave velocity of the $S_0$ mode plotted against theoretical wave velocity extracted from dispersion curves. Error bars show the standard deviation from the mean. After accounting for the temperature gradient across the transmission path by calculating a temperature average the change in velocity is comparable with predicted velocity extracted from dispersion curves, within 4.89 $\pm$ 2.27 m s$^{-1}$ on average. The temperature sensitivity of the system is 1.26--1.78 m s$^{-1}$\si{\degreeCelsius}$^{-1}$ over the range 24\si{\degreeCelsius}--94\si{\degreeCelsius}. The sensitivity is extracted from a second-order polynomial fit of the data (r$^2$ = 0.9992). The slope away from predicted results (increasing with temperature) can be attributed to the increasing temperature gradient, both in the plate and in the wedges. Increasing temperature is also likely to have an effect on the operation of the piezoelectric transducer (amplitude and centre frequency), however this effect is negligible over the tested temperature range. The wedge angle required to excite the $S_0$ mode will also vary with temperature, however the change is only around 1\si{\degree} between 20\si{\degreeCelsius} and 100\si{\degreeCelsius}.
+
+\subsection{Experimental sensitivity analysis}
+
+There are a number of experimental error sources to consider. The physical distance between wedges is controlled using 3D printed spacers that keep the wedges aligned at set distances. The movement of the wedges on the surface of the plate increases with temperature as the viscosity of the couplant decreases. Variations in placement cause the calculated velocity to vary by around $\pm$ 5 m s$^{-1}$ across multiple (30) wedge re-alignments. The measurement of wedge-to-wedge time to be subtracted from the total $t_F$ is temperature dependant and relies on accurate alignment of the wedge feet, as well as a good connection between them (signal amplitude is highly dependant on couplant). Variation in alignment causes around a $\pm$ 10 m s$^{-1}$ velocity change. The measurement of the distance from the front edge of the wedge to the point at which the wave enters the plate from the wedge ("wedge foot offset" in equation \ref{velocitycalcfull}) has a large effect on the calculated wave velocity. The exact offset distance is unknown and is assumed to be the point at which the centre line of the transducer aligns with the plate surface. Varying this value (42.5 mm) raises or lowers the velocity of all results considerably ($\pm$ 1 mm = $\pm$ 35 m s$^{-1}$). The hot plate does not heat the test plate evenly, especially at distances greater than 10 cm between wedges where they overhang the edges of the hot plate. The gradient (the difference in temperature between the centre of the plate and the location of the wedges) increases with temperature. The measured velocity is monitoring the average temperature of the transmission path. The gradient has been measured by placing a number (4) of thermocouples along the transmission path, from the centre of the plate (maximum temperature) to the point at which a wave is transmitted between a wedge foot and the plate. The calculation of aluminium dispersion curves at different temperatures is based on a change in Young's modulus. This is predicted from Hopkin's formula \cite{Hopkins2012} that may not give the correct values for Aluminium 1050 H14, but Aluminium in general.
+
+The largest source of error is the measurement of wedge-to-wedge $t_F$, as a small error in alignment causes a large change ($\pm$ 10 m s$^{-1}$) in the wave velocity calculation. This is accounted for through the averaging of multiple (30) measurements, the standard deviation for this range is shown using error bars on figure \ref{fig:result}. Selection of wedge foot offset distance dramatically shifts the calculated velocity. This value is difficult to measure to an accuracy of \textless 1 mm. 
 
 \section{Conclusion}
 
-The theoretical effect of temperature on various Lamb wave modes in aluminium plates has been investigated by generating dispersion curves based on varying material properties (figure~\ref{fig:alutempshift}). This can be repeated in the future for other materials at higher temperatures (e.g.\ Inconel 718 up to 1100\si{\degreeCelsius} in figure~\ref{fig:groupshift}). The temperature sensitivity of the $S_0$ mode at 1 MHz has been extracted from these curves (figure~\ref{fig:alu1mhz}) to be validated experimentally.
-\\
-Wedge transducers in a pitch-catch configuration have been used to excite the $S_0$ mode in a 1mm thick aluminium plate. The time of flight between transducers has been measured using a cross-correlation method and wave velocity calculated based on the distance between transducers. This confirms that the $S_0$ mode has been excited. The effect of lowering the temperature of the plate using freeze spray can be seen in figure~\ref{fig:freeze}. Further experiments will attempt to validate the temperature sensitivity of the $S_0$ mode against theoretical values extracted from dispersion curves.
+The theoretical effect of temperature on various Lamb wave modes in aluminium plates has been investigated by generating dispersion curves based on varying material properties (Figure~\ref{fig:alutempshift}). This can be repeated in the future for other materials at higher temperatures (e.g.\ Inconel 718 up to 1100\si{\degreeCelsius} in Figure~\ref{fig:groupshift}). The temperature sensitivity of the $S_0$ mode at 1 MHz has been extracted from these curves (Figure~\ref{fig:alu1mhz}) to be validated experimentally.
+
+An experimental investigation has been carried out in order to validate theoretical predictions. Wedge transducers in a pitch-catch configuration have been used to excite the $S_0$ mode in a 1mm thick aluminium plate. The time of flight between transducers has been measured using a cross-correlation method and wave velocity calculated based on the distance between transducers. This confirms that the $S_0$ mode has been excited. The change in $S_0$ wave velocity due to temperature is in line with theoretical predictions over the range 20\si{\degreeCelsius}--100\si{\degreeCelsius} as shown in Figure~\ref{fig:result}. 
+
+It is clear that wedge transducers are not the optimum method of transmitting/receiving a wave through a nozzle guide vane at high temperatures. They cannot be permanently mounted to the structure due to the need for a liquid couplant, and their relatively large footprint would make finding a suitable mounting location a challenge. Their operation at high temperatures is limited by the wedge material, which in the case of acrylic melts at around 160\si{\degreeCelsius}. The wedge material needs to have a longitudinal wave velocity less than that of the targeted Lamb wave phase velocity, which limits the choice of material severely, mostly to plastics with low melting points. The great benefit of wedge transducers is the ability to selectively target Lamb wave modes, which reduces the complexity of data analysis compared with exciting multiple modes simultaneously. This is difficult to achieve using other transducer configurations but it may instead be possible to excite a higher order region that travels as a single wave packet. The use of PWAS transducers could allow for operation at high temperatures (assuming suitable choice of piezoelectric material) and would be relatively easy to mount to an NGV structure, having a small footprint. Another option is to couple into the structure using waveguides, distancing the transducers from the high temperature environment. Future research will investigate the temperature sensitivity of higher order modes (such as $A_1$ and $S_1$), as operating at higher frequencies can improve resolution (allowing for the detection of smaller phase shifts) and response rates. The ability to monitor wave velocity variations in multi-modal wave packets will also be considered when investigating transducer configurations suitable for higher temperature operation.
 
 \chapter{Plan}\label{plan}
 
@@ -573,6 +600,6 @@ Although there is a measurable ToF change with temperature the result is a combi
 \includepdf[landscape=true,fitpaper=true]{Gantt_Chart}
 
 %\printbibliography
-\bibliographystyle{SageV}
+\bibliographystyle{ieeetr}
 \bibliography{library.bib, References.bib}
 \end{document}

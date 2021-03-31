@@ -1,8 +1,8 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
-Reallocating 'name_of_file' (item size: 1) to 6 items.
-The style file: SageV.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
 Reallocating 'name_of_file' (item size: 1) to 12 items.
 Reallocating 'name_of_file' (item size: 1) to 15 items.
 Database file #1: library.bib
@@ -10,53 +10,48 @@ Database file #2: References.bib
 Warning--can't use both volume and number fields in Imielinska2004
 Warning--can't use both volume and number fields in Dransfeld1970
 Warning--can't use both volume and number fields in Lynnworth1990
-Warning--there's a number but no volume in Tittmann2013a
 Warning--can't use both volume and number fields in Wilcox2004
 Warning--can't use both volume and number fields in Jayaraman2009a
-Warning--empty pages in Jayaraman2009a
 Warning--can't use both volume and number fields in Balasubramaniam2008
-Warning--empty pages in Balasubramaniam2008
-Warning--empty pages in Verma2011
-Warning--there's a number but no volume in Hopkins2012
 You've used 161 entries,
-            2484 wiz_defined-function locations,
-            1698 strings with 41420 characters,
-and the built_in function-call counts, 177442 in all, are:
-= -- 20839
-> -- 1964
-< -- 19
-+ -- 982
-- -- 491
-* -- 11090
-:= -- 16218
-add.period$ -- 615
+            1876 wiz_defined-function locations,
+            1481 strings with 36710 characters,
+and the built_in function-call counts, 47039 in all, are:
+= -- 4692
+> -- 2080
+< -- 0
++ -- 754
+- -- 593
+* -- 3553
+:= -- 6704
+add.period$ -- 172
 call.type$ -- 161
-change.case$ -- 174
+change.case$ -- 152
 chr.to.int$ -- 0
-cite$ -- 172
-duplicate$ -- 22269
-empty$ -- 14851
-format.name$ -- 631
-if$ -- 38497
+cite$ -- 167
+duplicate$ -- 2358
+empty$ -- 4134
+format.name$ -- 593
+if$ -- 11378
 int.to.chr$ -- 0
 int.to.str$ -- 161
-missing$ -- 1570
-newline$ -- 938
+missing$ -- 163
+newline$ -- 497
 num.names$ -- 161
-pop$ -- 10806
+pop$ -- 369
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1441
+skip$ -- 1690
 stack$ -- 0
-substring$ -- 26418
-swap$ -- 3769
-text.length$ -- 19
+substring$ -- 3146
+swap$ -- 1070
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 11
-while$ -- 1003
+warning$ -- 6
+while$ -- 470
 width$ -- 164
-write$ -- 2007
-(There were 11 warnings)
+write$ -- 1650
+(There were 6 warnings)
