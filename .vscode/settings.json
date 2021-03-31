@@ -1,23 +1,33 @@
 {
-    "editor.wordWrap": "on",
-    "grammarly.dialect": "british",
-    "grammarly.userWords": [
-        "couplant"
-    ],
-    "grammarly.diagnostics": {
-    
-        "[markdown]": {
-            "ignore": [
-                "code"
-            ]
-        }
-    },
-    "spellright.language": [
-        "en"
-    ],
-    "spellright.documentTypes": [
-        "markdown",
-        "latex",
-        "plaintext"
-    ]
+  "editor.wordWrap": "on",
+  "grammarly.dialect": "british",
+  "grammarly.userWords": [
+    "couplant"
+  ],
+  "grammarly.diagnostics": {
+    "[markdown]": {
+      "ignore": [
+        "code"
+      ]
+    }
+  },
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ],
+  "files.exclude": {
+    "main.aux": true,
+    "main.bbl": true,
+    "main.blg": true,
+    "main.fdb_latexmk": true,
+    "main.fls": true,
+    "main.log": true,
+    "main.out": true,
+    "main.synctex.gz": true,
+    "main.toc": true
+  }
 }
