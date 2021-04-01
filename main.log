@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.23)  1 APR 2021 13:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.23)  1 APR 2021 15:56
 entering extended mode
 **"c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/main.tex"
 (c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/main.tex
@@ -957,7 +957,7 @@ Chapter 1.
 [2
 
 ] [3]
-<turbine plus ngv.png, id=173, 649.82774pt x 527.69145pt>
+<turbine plus ngv.png, id=178, 649.82774pt x 527.69145pt>
 File: turbine plus ngv.png Graphic file (type png)
 <use turbine plus ngv.png>
 Package pdftex.def Info: turbine plus ngv.png  used on input line 92.
@@ -965,12 +965,7 @@ Package pdftex.def Info: turbine plus ngv.png  used on input line 92.
  [4 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/turbine plus ngv.png
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/turbine plus ngv.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
->] [5]
-Overfull \hbox (2.1622pt too wide) in paragraph at lines 122--123
-[]\OT1/cmr/m/n/10 Journal re-view pa-per ``Sur-face tem-per-a-ture con-di-tion mon-i-tor-ing meth-ods for aerospace
- []
-
-[6]
+>] [5] [6]
 Chapter 2.
 [7
 
@@ -982,15 +977,15 @@ Package epstopdf Info: Source file: <Turbinecrosssection.eps>
 (epstopdf)                    date: 2021-03-30 12:58:12
 (epstopdf)                    size: 32734 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=Turbinecrosssection-eps-converted-to.pdf Turbinecrosssection.eps>
-(epstopdf)             \includegraphics on input line 137.
+(epstopdf)             \includegraphics on input line 135.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/Turbinecrosssection-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Turbinecrosssection-eps-converted-to.pdf, id=230, 511.9125pt x 309.155pt>
+<Turbinecrosssection-eps-converted-to.pdf, id=228, 511.9125pt x 309.155pt>
 File: Turbinecrosssection-eps-converted-to.pdf Graphic file (type pdf)
 <use Turbinecrosssection-eps-converted-to.pdf>
-Package pdftex.def Info: Turbinecrosssection-eps-converted-to.pdf  used on input line 137.
+Package pdftex.def Info: Turbinecrosssection-eps-converted-to.pdf  used on input line 135.
 (pdftex.def)             Requested size: 318.67207pt x 192.45247pt.
 [8 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/Turbinecrosssection-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <tempmethodsvenn.eps>
@@ -1000,46 +995,46 @@ Package epstopdf Info: Source file: <tempmethodsvenn.eps>
 (epstopdf)                    date: 2021-03-30 12:58:13
 (epstopdf)                    size: 39059 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=tempmethodsvenn-eps-converted-to.pdf tempmethodsvenn.eps>
-(epstopdf)             \includegraphics on input line 151.
+(epstopdf)             \includegraphics on input line 149.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/tempmethodsvenn-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<tempmethodsvenn-eps-converted-to.pdf, id=267, 552.0625pt x 518.93875pt>
+<tempmethodsvenn-eps-converted-to.pdf, id=264, 552.0625pt x 518.93875pt>
 File: tempmethodsvenn-eps-converted-to.pdf Graphic file (type pdf)
 <use tempmethodsvenn-eps-converted-to.pdf>
-Package pdftex.def Info: tempmethodsvenn-eps-converted-to.pdf  used on input line 151.
+Package pdftex.def Info: tempmethodsvenn-eps-converted-to.pdf  used on input line 149.
 (pdftex.def)             Requested size: 318.67207pt x 299.56729pt.
-[9 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/tempmethodsvenn-eps-converted-to.pdf>]
-<Single change paints edit.png, id=292, 1782.66pt x 1097.09875pt>
+[9] [10 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/tempmethodsvenn-eps-converted-to.pdf>]
+<Single change paints edit.png, id=298, 1782.66pt x 1097.09875pt>
 File: Single change paints edit.png Graphic file (type png)
 <use Single change paints edit.png>
-Package pdftex.def Info: Single change paints edit.png  used on input line 188.
+Package pdftex.def Info: Single change paints edit.png  used on input line 186.
 (pdftex.def)             Requested size: 318.67207pt x 196.11328pt.
-<multi-change paints edit.png, id=295, 1427.3325pt x 1065.9825pt>
+<multi-change paints edit.png, id=301, 1427.3325pt x 1065.9825pt>
 File: multi-change paints edit.png Graphic file (type png)
 <use multi-change paints edit.png>
-Package pdftex.def Info: multi-change paints edit.png  used on input line 194.
+Package pdftex.def Info: multi-change paints edit.png  used on input line 192.
 (pdftex.def)             Requested size: 318.67207pt x 237.9977pt.
- [10] [11 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/Single change paints edit.png> <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/multi-change paints edit.png>] [12]
-<crystal temp sens.png, id=345, 676.77844pt x 508.90125pt>
+ [11] [12 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/Single change paints edit.png> <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/multi-change paints edit.png>] [13]
+<crystal temp sens.png, id=349, 676.77844pt x 508.90125pt>
 File: crystal temp sens.png Graphic file (type png)
 <use crystal temp sens.png>
-Package pdftex.def Info: crystal temp sens.png  used on input line 218.
+Package pdftex.def Info: crystal temp sens.png  used on input line 216.
 (pdftex.def)             Requested size: 318.67207pt x 239.62624pt.
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 222.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 220.
  (C:\Users\yulel\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
 File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 222.
- [13] [14 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/crystal temp sens.png>]
-<tftcNGV.png, id=370, 977.15062pt x 727.21687pt>
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 220.
+ [14] [15 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/crystal temp sens.png>]
+<tftcNGV.png, id=373, 977.15062pt x 727.21687pt>
 File: tftcNGV.png Graphic file (type png)
 <use tftcNGV.png>
-Package pdftex.def Info: tftcNGV.png  used on input line 251.
+Package pdftex.def Info: tftcNGV.png  used on input line 249.
 (pdftex.def)             Requested size: 318.67207pt x 237.16382pt.
- [15 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/tftcNGV.png>] [16]
+ [16 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/tftcNGV.png>] [17]
 Package epstopdf Info: Source file: <kerrpyro.eps>
 (epstopdf)                    date: 2021-03-30 12:52:53
 (epstopdf)                    size: 1481610 bytes
@@ -1047,22 +1042,22 @@ Package epstopdf Info: Source file: <kerrpyro.eps>
 (epstopdf)                    date: 2021-03-30 12:58:15
 (epstopdf)                    size: 76437 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=kerrpyro-eps-converted-to.pdf kerrpyro.eps>
-(epstopdf)             \includegraphics on input line 266.
+(epstopdf)             \includegraphics on input line 264.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/kerrpyro-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<kerrpyro-eps-converted-to.pdf, id=420, 816.04875pt x 507.8975pt>
+<kerrpyro-eps-converted-to.pdf, id=422, 816.04875pt x 507.8975pt>
 File: kerrpyro-eps-converted-to.pdf Graphic file (type pdf)
 <use kerrpyro-eps-converted-to.pdf>
-Package pdftex.def Info: kerrpyro-eps-converted-to.pdf  used on input line 266.
+Package pdftex.def Info: kerrpyro-eps-converted-to.pdf  used on input line 264.
 (pdftex.def)             Requested size: 318.67207pt x 198.33498pt.
-<siemens IR edit-01.png, id=423, 768.471pt x 582.7371pt>
+<siemens IR edit-01.png, id=425, 768.471pt x 582.7371pt>
 File: siemens IR edit-01.png Graphic file (type png)
 <use siemens IR edit-01.png>
-Package pdftex.def Info: siemens IR edit-01.png  used on input line 272.
+Package pdftex.def Info: siemens IR edit-01.png  used on input line 270.
 (pdftex.def)             Requested size: 318.67207pt x 241.64467pt.
-[17 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/kerrpyro-eps-converted-to.pdf>] [18 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/siemens IR edit-01.png>]
+[18 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/kerrpyro-eps-converted-to.pdf>] [19 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/siemens IR edit-01.png>]
 Package epstopdf Info: Source file: <yaneztempTBC.eps>
 (epstopdf)                    date: 2021-03-30 12:52:53
 (epstopdf)                    size: 1921570 bytes
@@ -1070,27 +1065,28 @@ Package epstopdf Info: Source file: <yaneztempTBC.eps>
 (epstopdf)                    date: 2021-03-30 12:58:17
 (epstopdf)                    size: 29350 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=yaneztempTBC-eps-converted-to.pdf yaneztempTBC.eps>
-(epstopdf)             \includegraphics on input line 286.
+(epstopdf)             \includegraphics on input line 284.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/yaneztempTBC-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<yaneztempTBC-eps-converted-to.pdf, id=474, 1090.0725pt x 706.64pt>
+<yaneztempTBC-eps-converted-to.pdf, id=473, 1090.0725pt x 706.64pt>
 File: yaneztempTBC-eps-converted-to.pdf Graphic file (type pdf)
 <use yaneztempTBC-eps-converted-to.pdf>
-Package pdftex.def Info: yaneztempTBC-eps-converted-to.pdf  used on input line 286.
+Package pdftex.def Info: yaneztempTBC-eps-converted-to.pdf  used on input line 284.
 (pdftex.def)             Requested size: 318.67207pt x 206.57007pt.
-[19 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/yaneztempTBC-eps-converted-to.pdf>] [20] [21] [22]
-<SAW delay line.png, id=579, 1224.07312pt x 415.5525pt>
+[20 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/yaneztempTBC-eps-converted-to.pdf>] [21] [22] [23]
+<SAW delay line.png, id=583, 1224.07312pt x 415.5525pt>
 File: SAW delay line.png Graphic file (type png)
 <use SAW delay line.png>
-Package pdftex.def Info: SAW delay line.png  used on input line 330.
+Package pdftex.def Info: SAW delay line.png  used on input line 328.
 (pdftex.def)             Requested size: 318.67207pt x 108.18059pt.
-<SAW resonator.png, id=582, 1297.09593pt x 522.45187pt>
+<SAW resonator.png, id=586, 1297.09593pt x 522.45187pt>
 File: SAW resonator.png Graphic file (type png)
 <use SAW resonator.png>
-Package pdftex.def Info: SAW resonator.png  used on input line 336.
+Package pdftex.def Info: SAW resonator.png  used on input line 334.
 (pdftex.def)             Requested size: 318.67207pt x 128.35657pt.
+ [24 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/SAW delay line.png>]
 Package epstopdf Info: Source file: <wedge.eps>
 (epstopdf)                    date: 2021-03-30 12:52:53
 (epstopdf)                    size: 1968222 bytes
@@ -1098,15 +1094,15 @@ Package epstopdf Info: Source file: <wedge.eps>
 (epstopdf)                    date: 2021-03-30 12:58:19
 (epstopdf)                    size: 29231 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=wedge-eps-converted-to.pdf wedge.eps>
-(epstopdf)             \includegraphics on input line 348.
+(epstopdf)             \includegraphics on input line 346.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/wedge-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<wedge-eps-converted-to.pdf, id=592, 1333.98375pt x 599.23875pt>
+<wedge-eps-converted-to.pdf, id=607, 1333.98375pt x 599.23875pt>
 File: wedge-eps-converted-to.pdf Graphic file (type pdf)
 <use wedge-eps-converted-to.pdf>
-Package pdftex.def Info: wedge-eps-converted-to.pdf  used on input line 348.
+Package pdftex.def Info: wedge-eps-converted-to.pdf  used on input line 346.
 (pdftex.def)             Requested size: 318.67207pt x 143.1436pt.
 Package epstopdf Info: Source file: <hertzian.eps>
 (epstopdf)                    date: 2021-03-30 12:52:53
@@ -1115,23 +1111,23 @@ Package epstopdf Info: Source file: <hertzian.eps>
 (epstopdf)                    date: 2021-03-30 12:58:20
 (epstopdf)                    size: 30733 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=hertzian-eps-converted-to.pdf hertzian.eps>
-(epstopdf)             \includegraphics on input line 356.
+(epstopdf)             \includegraphics on input line 354.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/hertzian-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<hertzian-eps-converted-to.pdf, id=595, 1334.9875pt x 866.23625pt>
+<hertzian-eps-converted-to.pdf, id=610, 1334.9875pt x 866.23625pt>
 File: hertzian-eps-converted-to.pdf Graphic file (type pdf)
 <use hertzian-eps-converted-to.pdf>
-Package pdftex.def Info: hertzian-eps-converted-to.pdf  used on input line 356.
+Package pdftex.def Info: hertzian-eps-converted-to.pdf  used on input line 354.
 (pdftex.def)             Requested size: 318.67207pt x 206.77744pt.
-[23 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/SAW delay line.png> <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/SAW resonator.png>] [24 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/wedge-eps-converted-to.pdf> <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/hertzian-eps-converted-to.pdf>]
-<willschwaveguide.png, id=647, 632.3625pt x 448.67625pt>
+[25 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/SAW resonator.png> <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/wedge-eps-converted-to.pdf>]
+<willschwaveguide.png, id=635, 632.3625pt x 448.67625pt>
 File: willschwaveguide.png Graphic file (type png)
 <use willschwaveguide.png>
-Package pdftex.def Info: willschwaveguide.png  used on input line 364.
+Package pdftex.def Info: willschwaveguide.png  used on input line 362.
 (pdftex.def)             Requested size: 318.67207pt x 226.11075pt.
- [25 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/willschwaveguide.png>]
+ [26 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/hertzian-eps-converted-to.pdf>] [27 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/willschwaveguide.png>]
 Package epstopdf Info: Source file: <lambwaves2.eps>
 (epstopdf)                    date: 2021-03-30 12:52:53
 (epstopdf)                    size: 2135786 bytes
@@ -1139,15 +1135,15 @@ Package epstopdf Info: Source file: <lambwaves2.eps>
 (epstopdf)                    date: 2021-03-30 12:58:21
 (epstopdf)                    size: 12999 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=lambwaves2-eps-converted-to.pdf lambwaves2.eps>
-(epstopdf)             \includegraphics on input line 385.
+(epstopdf)             \includegraphics on input line 383.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/lambwaves2-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lambwaves2-eps-converted-to.pdf, id=698, 1648.1575pt x 452.69125pt>
+<lambwaves2-eps-converted-to.pdf, id=711, 1648.1575pt x 452.69125pt>
 File: lambwaves2-eps-converted-to.pdf Graphic file (type pdf)
 <use lambwaves2-eps-converted-to.pdf>
-Package pdftex.def Info: lambwaves2-eps-converted-to.pdf  used on input line 385.
+Package pdftex.def Info: lambwaves2-eps-converted-to.pdf  used on input line 383.
 (pdftex.def)             Requested size: 318.67207pt x 87.52496pt.
 Package epstopdf Info: Source file: <inconelyoungsdensitypoisson.eps>
 (epstopdf)                    date: 2021-03-30 12:52:53
@@ -1156,17 +1152,16 @@ Package epstopdf Info: Source file: <inconelyoungsdensitypoisson.eps>
 (epstopdf)                    date: 2021-03-30 12:58:22
 (epstopdf)                    size: 29515 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=inconelyoungsdensitypoisson-eps-converted-to.pdf inconelyoungsdensitypoisson.eps>
-(epstopdf)             \includegraphics on input line 391.
+(epstopdf)             \includegraphics on input line 389.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/inconelyoungsdensitypoisson-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<inconelyoungsdensitypoisson-eps-converted-to.pdf, id=699, 433.62pt x 286.06876pt>
+<inconelyoungsdensitypoisson-eps-converted-to.pdf, id=712, 433.62pt x 286.06876pt>
 File: inconelyoungsdensitypoisson-eps-converted-to.pdf Graphic file (type pdf)
 <use inconelyoungsdensitypoisson-eps-converted-to.pdf>
-Package pdftex.def Info: inconelyoungsdensitypoisson-eps-converted-to.pdf  used on input line 391.
+Package pdftex.def Info: inconelyoungsdensitypoisson-eps-converted-to.pdf  used on input line 389.
 (pdftex.def)             Requested size: 318.67207pt x 210.24709pt.
-[26 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/lambwaves2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <alutempshift2560.eps>
 (epstopdf)                    date: 2021-03-30 12:52:53
 (epstopdf)                    size: 969846 bytes
@@ -1174,16 +1169,17 @@ Package epstopdf Info: Source file: <alutempshift2560.eps>
 (epstopdf)                    date: 2021-03-30 12:58:23
 (epstopdf)                    size: 81345 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=alutempshift2560-eps-converted-to.pdf alutempshift2560.eps>
-(epstopdf)             \includegraphics on input line 399.
+(epstopdf)             \includegraphics on input line 397.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/alutempshift2560-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<alutempshift2560-eps-converted-to.pdf, id=733, 398.48875pt x 298.11375pt>
+<alutempshift2560-eps-converted-to.pdf, id=724, 398.48875pt x 298.11375pt>
 File: alutempshift2560-eps-converted-to.pdf Graphic file (type pdf)
 <use alutempshift2560-eps-converted-to.pdf>
-Package pdftex.def Info: alutempshift2560-eps-converted-to.pdf  used on input line 399.
+Package pdftex.def Info: alutempshift2560-eps-converted-to.pdf  used on input line 397.
 (pdftex.def)             Requested size: 318.67207pt x 238.40944pt.
+[28 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/lambwaves2-eps-converted-to.pdf>] [29 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/inconelyoungsdensitypoisson-eps-converted-to.pdf> <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/alutempshift2560-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <phasedispersion.eps>
 (epstopdf)                    date: 2021-03-30 12:52:53
 (epstopdf)                    size: 1396902 bytes
@@ -1191,17 +1187,17 @@ Package epstopdf Info: Source file: <phasedispersion.eps>
 (epstopdf)                    date: 2021-03-30 12:58:24
 (epstopdf)                    size: 195618 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=phasedispersion-eps-converted-to.pdf phasedispersion.eps>
-(epstopdf)             \includegraphics on input line 414.
+(epstopdf)             \includegraphics on input line 412.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/phasedispersion-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<phasedispersion-eps-converted-to.pdf, id=736, 382.42876pt x 301.125pt>
+<phasedispersion-eps-converted-to.pdf, id=775, 382.42876pt x 301.125pt>
 File: phasedispersion-eps-converted-to.pdf Graphic file (type pdf)
 <use phasedispersion-eps-converted-to.pdf>
-Package pdftex.def Info: phasedispersion-eps-converted-to.pdf  used on input line 414.
+Package pdftex.def Info: phasedispersion-eps-converted-to.pdf  used on input line 412.
 (pdftex.def)             Requested size: 318.67207pt x 250.93533pt.
-[27 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/inconelyoungsdensitypoisson-eps-converted-to.pdf>] [28 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/alutempshift2560-eps-converted-to.pdf> <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/phasedispersion-eps-converted-to.pdf>]
+[30 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/phasedispersion-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <grouptemp.eps>
 (epstopdf)                    date: 2021-03-30 12:52:53
 (epstopdf)                    size: 731746 bytes
@@ -1209,15 +1205,15 @@ Package epstopdf Info: Source file: <grouptemp.eps>
 (epstopdf)                    date: 2021-03-30 12:58:25
 (epstopdf)                    size: 64204 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=grouptemp-eps-converted-to.pdf grouptemp.eps>
-(epstopdf)             \includegraphics on input line 422.
+(epstopdf)             \includegraphics on input line 420.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/grouptemp-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<grouptemp-eps-converted-to.pdf, id=791, 380.42125pt x 302.12875pt>
+<grouptemp-eps-converted-to.pdf, id=801, 380.42125pt x 302.12875pt>
 File: grouptemp-eps-converted-to.pdf Graphic file (type pdf)
 <use grouptemp-eps-converted-to.pdf>
-Package pdftex.def Info: grouptemp-eps-converted-to.pdf  used on input line 422.
+Package pdftex.def Info: grouptemp-eps-converted-to.pdf  used on input line 420.
 (pdftex.def)             Requested size: 318.67207pt x 253.0949pt.
 Package epstopdf Info: Source file: <grouptemp1mhztemp.eps>
 (epstopdf)                    date: 2021-03-30 12:52:53
@@ -1226,39 +1222,39 @@ Package epstopdf Info: Source file: <grouptemp1mhztemp.eps>
 (epstopdf)                    date: 2021-03-30 12:58:26
 (epstopdf)                    size: 25267 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=grouptemp1mhztemp-eps-converted-to.pdf grouptemp1mhztemp.eps>
-(epstopdf)             \includegraphics on input line 428.
+(epstopdf)             \includegraphics on input line 426.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/grouptemp1mhztemp-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<grouptemp1mhztemp-eps-converted-to.pdf, id=792, 387.4475pt x 299.1175pt>
+<grouptemp1mhztemp-eps-converted-to.pdf, id=802, 387.4475pt x 299.1175pt>
 File: grouptemp1mhztemp-eps-converted-to.pdf Graphic file (type pdf)
 <use grouptemp1mhztemp-eps-converted-to.pdf>
-Package pdftex.def Info: grouptemp1mhztemp-eps-converted-to.pdf  used on input line 428.
+Package pdftex.def Info: grouptemp1mhztemp-eps-converted-to.pdf  used on input line 426.
 (pdftex.def)             Requested size: 318.67207pt x 246.02644pt.
-[29] [30 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/grouptemp-eps-converted-to.pdf> <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/grouptemp1mhztemp-eps-converted-to.pdf>] [31] [32]
+[31 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/grouptemp-eps-converted-to.pdf>] [32 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/grouptemp1mhztemp-eps-converted-to.pdf>] [33] [34]
 Chapter 3.
-[33
+[35
 
-] [34]
+] [36]
 Package epstopdf Info: Source file: <grouptempshiftalu.eps>
-(epstopdf)                    date: 2021-04-01 11:32:17
-(epstopdf)                    size: 606522 bytes
+(epstopdf)                    date: 2021-04-01 13:58:51
+(epstopdf)                    size: 61519 bytes
 (epstopdf)             Output file: <grouptempshiftalu-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-04-01 11:32:44
-(epstopdf)                    size: 36931 bytes
+(epstopdf)                    date: 2021-04-01 15:44:47
+(epstopdf)                    size: 2436 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=grouptempshiftalu-eps-converted-to.pdf grouptempshiftalu.eps>
-(epstopdf)             \includegraphics on input line 489.
+(epstopdf)             \includegraphics on input line 487.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/grouptempshiftalu-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<grouptempshiftalu-eps-converted-to.pdf, id=879, 381.425pt x 301.125pt>
+<grouptempshiftalu-eps-converted-to.pdf, id=887, 382.42876pt x 302.12875pt>
 File: grouptempshiftalu-eps-converted-to.pdf Graphic file (type pdf)
 <use grouptempshiftalu-eps-converted-to.pdf>
-Package pdftex.def Info: grouptempshiftalu-eps-converted-to.pdf  used on input line 489.
-(pdftex.def)             Requested size: 318.67207pt x 251.59239pt.
-[35 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/grouptempshiftalu-eps-converted-to.pdf>]
+Package pdftex.def Info: grouptempshiftalu-eps-converted-to.pdf  used on input line 487.
+(pdftex.def)             Requested size: 318.67207pt x 251.77179pt.
+[37 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/grouptempshiftalu-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <grouptemp1mhztempalu.eps>
 (epstopdf)                    date: 2021-04-01 13:34:21
 (epstopdf)                    size: 542726 bytes
@@ -1266,17 +1262,17 @@ Package epstopdf Info: Source file: <grouptemp1mhztempalu.eps>
 (epstopdf)                    date: 2021-04-01 13:35:10
 (epstopdf)                    size: 22728 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=grouptemp1mhztempalu-eps-converted-to.pdf grouptemp1mhztempalu.eps>
-(epstopdf)             \includegraphics on input line 497.
+(epstopdf)             \includegraphics on input line 495.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/grouptemp1mhztempalu-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<grouptemp1mhztempalu-eps-converted-to.pdf, id=895, 386.44376pt x 297.11pt>
+<grouptemp1mhztempalu-eps-converted-to.pdf, id=893, 386.44376pt x 297.11pt>
 File: grouptemp1mhztempalu-eps-converted-to.pdf Graphic file (type pdf)
 <use grouptemp1mhztempalu-eps-converted-to.pdf>
-Package pdftex.def Info: grouptemp1mhztempalu-eps-converted-to.pdf  used on input line 497.
+Package pdftex.def Info: grouptemp1mhztempalu-eps-converted-to.pdf  used on input line 495.
 (pdftex.def)             Requested size: 318.67207pt x 245.00543pt.
-[36 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/grouptemp1mhztempalu-eps-converted-to.pdf>]
+[38 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/grouptemp1mhztempalu-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <waveformxcorr.eps>
 (epstopdf)                    date: 2021-03-24 11:38:47
 (epstopdf)                    size: 1570466 bytes
@@ -1284,15 +1280,15 @@ Package epstopdf Info: Source file: <waveformxcorr.eps>
 (epstopdf)                    date: 2021-03-31 10:47:45
 (epstopdf)                    size: 138661 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=waveformxcorr-eps-converted-to.pdf waveformxcorr.eps>
-(epstopdf)             \includegraphics on input line 530.
+(epstopdf)             \includegraphics on input line 528.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/waveformxcorr-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<waveformxcorr-eps-converted-to.pdf, id=914, 491.8375pt x 487.8225pt>
+<waveformxcorr-eps-converted-to.pdf, id=912, 491.8375pt x 487.8225pt>
 File: waveformxcorr-eps-converted-to.pdf Graphic file (type pdf)
 <use waveformxcorr-eps-converted-to.pdf>
-Package pdftex.def Info: waveformxcorr-eps-converted-to.pdf  used on input line 530.
+Package pdftex.def Info: waveformxcorr-eps-converted-to.pdf  used on input line 528.
 (pdftex.def)             Requested size: 318.67207pt x 316.08342pt.
 Package epstopdf Info: Source file: <testdiagramsimple.eps>
 (epstopdf)                    date: 2021-03-24 11:38:47
@@ -1301,22 +1297,22 @@ Package epstopdf Info: Source file: <testdiagramsimple.eps>
 (epstopdf)                    date: 2021-03-31 10:29:19
 (epstopdf)                    size: 44263 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=testdiagramsimple-eps-converted-to.pdf testdiagramsimple.eps>
-(epstopdf)             \includegraphics on input line 536.
+(epstopdf)             \includegraphics on input line 534.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/testdiagramsimple-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<testdiagramsimple-eps-converted-to.pdf, id=915, 1479.5275pt x 590.205pt>
+<testdiagramsimple-eps-converted-to.pdf, id=913, 1479.5275pt x 590.205pt>
 File: testdiagramsimple-eps-converted-to.pdf Graphic file (type pdf)
 <use testdiagramsimple-eps-converted-to.pdf>
-Package pdftex.def Info: testdiagramsimple-eps-converted-to.pdf  used on input line 536.
+Package pdftex.def Info: testdiagramsimple-eps-converted-to.pdf  used on input line 534.
 (pdftex.def)             Requested size: 318.67207pt x 127.11674pt.
-<hjkhh7UmEx.png, id=916, 1201.48875pt x 716.6775pt>
+<hjkhh7UmEx.png, id=914, 1201.48875pt x 716.6775pt>
 File: hjkhh7UmEx.png Graphic file (type png)
 <use hjkhh7UmEx.png>
-Package pdftex.def Info: hjkhh7UmEx.png  used on input line 542.
+Package pdftex.def Info: hjkhh7UmEx.png  used on input line 540.
 (pdftex.def)             Requested size: 318.67207pt x 190.08267pt.
-[37]
+[39]
 Package epstopdf Info: Source file: <aluplatemeasured.eps>
 (epstopdf)                    date: 2021-03-24 11:38:47
 (epstopdf)                    size: 549378 bytes
@@ -1324,78 +1320,94 @@ Package epstopdf Info: Source file: <aluplatemeasured.eps>
 (epstopdf)                    date: 2021-03-31 10:30:40
 (epstopdf)                    size: 24731 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=aluplatemeasured-eps-converted-to.pdf aluplatemeasured.eps>
-(epstopdf)             \includegraphics on input line 556.
+(epstopdf)             \includegraphics on input line 554.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/aluplatemeasured-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<aluplatemeasured-eps-converted-to.pdf, id=929, 388.45125pt x 299.1175pt>
+<aluplatemeasured-eps-converted-to.pdf, id=927, 388.45125pt x 299.1175pt>
 File: aluplatemeasured-eps-converted-to.pdf Graphic file (type pdf)
 <use aluplatemeasured-eps-converted-to.pdf>
-Package pdftex.def Info: aluplatemeasured-eps-converted-to.pdf  used on input line 556.
+Package pdftex.def Info: aluplatemeasured-eps-converted-to.pdf  used on input line 554.
 (pdftex.def)             Requested size: 318.67207pt x 245.39203pt.
-[38 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/waveformxcorr-eps-converted-to.pdf>] [39 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/testdiagramsimple-eps-converted-to.pdf> <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/hjkhh7UmEx.png>] [40 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/aluplatemeasured-eps-converted-to.pdf>] [41]
+[40 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/waveformxcorr-eps-converted-to.pdf>] [41 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/testdiagramsimple-eps-converted-to.pdf> <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/hjkhh7UmEx.png>] [42 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/aluplatemeasured-eps-converted-to.pdf>]
+Overfull \hbox (3.16212pt too wide) in paragraph at lines 572--573
+[]\OT1/cmr/m/n/10 It is clear that wedge trans-duc-ers are not the op-ti-mum method of trans-mit-ting/receiving
+ []
+
+[43]
 Chapter 4.
-[42
+[44
 
 ]
 Chapter 5.
 
-Overfull \hbox (1.16089pt too wide) in paragraph at lines 590--591
-\OT1/cmr/m/n/10 Piezo-elec-tric Wafer Ac-tive Sen-sors (PWAS) us-ing piezo-elec-tric ma-te-ri-als such as YCOB
+Overfull \hbox (20.89833pt too wide) in paragraph at lines 585--586
+[]\OT1/cmr/m/n/10 Evaluation of the cur-rently used meth-ods for tem-per-a-ture mon-i-tor-ing of NGVs/turbine
  []
 
-<Gantt_Chart.pdf, id=998, 1195.01462pt x 682.86116pt>
-File: Gantt_Chart.pdf Graphic file (type pdf)
-<use Gantt_Chart.pdf>
-Package pdftex.def Info: Gantt_Chart.pdf  used on input line 595.
-(pdftex.def)             Requested size: 1195.0117pt x 682.8595pt.
-File: Gantt_Chart.pdf Graphic file (type pdf)
-<use Gantt_Chart.pdf>
-Package pdftex.def Info: Gantt_Chart.pdf  used on input line 595.
-(pdftex.def)             Requested size: 1195.0117pt x 682.8595pt.
-<Gantt_Chart.pdf, id=1001, page=1, 1195.01462pt x 682.86116pt>
-File: Gantt_Chart.pdf Graphic file (type pdf)
-<use Gantt_Chart.pdf, page 1>
-Package pdftex.def Info: Gantt_Chart.pdf , page1 used on input line 595.
-(pdftex.def)             Requested size: 1195.0117pt x 682.8595pt.
-File: Gantt_Chart.pdf Graphic file (type pdf)
-<use Gantt_Chart.pdf, page 1>
-Package pdftex.def Info: Gantt_Chart.pdf , page1 used on input line 595.
-(pdftex.def)             Requested size: 1195.0117pt x 682.8595pt.
-[43
+[45
 
 ]
+<Gantt_Chart.pdf, id=1005, 1195.01462pt x 682.86116pt>
+File: Gantt_Chart.pdf Graphic file (type pdf)
+<use Gantt_Chart.pdf>
+Package pdftex.def Info: Gantt_Chart.pdf  used on input line 603.
+(pdftex.def)             Requested size: 1195.0117pt x 682.8595pt.
+File: Gantt_Chart.pdf Graphic file (type pdf)
+<use Gantt_Chart.pdf>
+Package pdftex.def Info: Gantt_Chart.pdf  used on input line 603.
+(pdftex.def)             Requested size: 1195.0117pt x 682.8595pt.
+<Gantt_Chart.pdf, id=1008, page=1, 1195.01462pt x 682.86116pt>
 File: Gantt_Chart.pdf Graphic file (type pdf)
 <use Gantt_Chart.pdf, page 1>
-Package pdftex.def Info: Gantt_Chart.pdf , page1 used on input line 595.
+Package pdftex.def Info: Gantt_Chart.pdf , page1 used on input line 603.
 (pdftex.def)             Requested size: 1195.0117pt x 682.8595pt.
 File: Gantt_Chart.pdf Graphic file (type pdf)
 <use Gantt_Chart.pdf, page 1>
-Package pdftex.def Info: Gantt_Chart.pdf , page1 used on input line 595.
+Package pdftex.def Info: Gantt_Chart.pdf , page1 used on input line 603.
+(pdftex.def)             Requested size: 1195.0117pt x 682.8595pt.
+ [46]
+File: Gantt_Chart.pdf Graphic file (type pdf)
+<use Gantt_Chart.pdf, page 1>
+Package pdftex.def Info: Gantt_Chart.pdf , page1 used on input line 603.
 (pdftex.def)             Requested size: 1195.0117pt x 682.8595pt.
 File: Gantt_Chart.pdf Graphic file (type pdf)
 <use Gantt_Chart.pdf, page 1>
-Package pdftex.def Info: Gantt_Chart.pdf , page1 used on input line 595.
+Package pdftex.def Info: Gantt_Chart.pdf , page1 used on input line 603.
 (pdftex.def)             Requested size: 1195.0117pt x 682.8595pt.
- [44 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/Gantt_Chart.pdf, page is rotated 90 degrees>] (c:/Users\yulel\OneDrive - University of Southampton\LaTeX\Progression-report\main.bbl [45
+File: Gantt_Chart.pdf Graphic file (type pdf)
+<use Gantt_Chart.pdf, page 1>
+Package pdftex.def Info: Gantt_Chart.pdf , page1 used on input line 603.
+(pdftex.def)             Requested size: 1195.0117pt x 682.8595pt.
+ [47 <c:/Users/yulel/OneDrive - University of Southampton/LaTeX/Progression-report/Gantt_Chart.pdf, page is rotated 90 degrees>] (c:/Users\yulel\OneDrive - University of Southampton\LaTeX\Progression-report\main.bbl [48
 
-] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55]) [56] (c:/Users\yulel\OneDrive - University of Southampton\LaTeX\Progression-report\main.aux)
+] [49] [50] [51] [52]
+Underfull \hbox (badness 2229) in paragraph at lines 463--467
+\OT1/cmr/m/n/10 dependent phase and ve-loc-ity of guided wave sig-nals in base-line sub-
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 463--467
+\OT1/cmr/m/n/10 trac-tion for struc-tural health mon-i-tor-ing,'' \OT1/cmr/m/it/10 Struc-tural Health Mon-i-tor-ing\OT1/cmr/m/n/10 ,
+ []
+
+[53] [54] [55] [56] [57]) [58] (c:/Users\yulel\OneDrive - University of Southampton\LaTeX\Progression-report\main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 563D5C9F0EFB8CA8E7E8462816E441C5;5256.
+(rerunfilecheck)             Checksum: 89DD3AD97FC7AF0A6B77D1CA9270580F;5425.
  ) 
 Here is how much of TeX's memory you used:
- 30534 strings out of 479324
- 596982 string characters out of 2856815
- 900372 words of memory out of 3000000
- 47085 multiletter control sequences out of 15000+600000
+ 30538 strings out of 479324
+ 597020 string characters out of 2856815
+ 899373 words of memory out of 3000000
+ 47086 multiletter control sequences out of 15000+600000
  418078 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,21n,117p,3762b,1156s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 111i,21n,117p,3762b,1162s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\yulel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\yulel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/ibm/plex/IBMPlexSans-Bold.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/ibm/plex/IBMPlexSans-Text.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertinus-type1/LibertinusSans-Bold.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertinus-type1/LibertinusSans-Italic.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertinus-type1/LibertinusSans-Regular.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/yulel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on "c:/Users\yulel\OneDrive - University of Southampton\LaTeX\Progression-report\main.pdf" (58 pages, 20360995 bytes).
+Output written on "c:/Users\yulel\OneDrive - University of Southampton\LaTeX\Progression-report\main.pdf" (60 pages, 20331619 bytes).
 PDF statistics:
- 1248 PDF objects out of 1440 (max. 8388607)
- 285 named destinations out of 1000 (max. 500000)
- 384 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1251 PDF objects out of 1440 (max. 8388607)
+ 288 named destinations out of 1000 (max. 500000)
+ 392 words of extra memory for PDF output out of 10000 (max. 10000000)
 

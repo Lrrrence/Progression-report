@@ -1,38 +1,39 @@
 \contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Research objectives}{5}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Up to 18 month review}{5}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}From 18 month review onwards}{5}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.1}Research questions}{5}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Plans from 18 month review onwards}{5}{subsection.1.1.2}%
 \contentsline {section}{\numberline {1.2}Research output}{6}{section.1.2}%
 \contentsline {chapter}{\numberline {2}Literature Review}{7}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduction}{7}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Current surface temperature monitoring strategies}{9}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Numerical methods for temperature estimation}{9}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Offline Monitoring Methods}{10}{subsection.2.2.2}%
-\contentsline {subsubsection}{Thermal paint or Temperature indicating paint}{10}{table.caption.5}%
-\contentsline {subsubsection}{Thermal history sensors}{12}{figure.caption.7}%
-\contentsline {subsubsection}{Other offline sensors}{13}{figure.caption.7}%
-\contentsline {subsection}{\numberline {2.2.3}Online Monitoring Methods}{14}{subsection.2.2.3}%
-\contentsline {subsubsection}{Thermocouples}{15}{table.caption.9}%
-\contentsline {subsubsection}{Pyrometry}{16}{figure.caption.10}%
-\contentsline {subsubsection}{Temperature sensitive paints}{17}{figure.caption.12}%
-\contentsline {subsubsection}{Thermographic phosphors}{18}{figure.caption.12}%
-\contentsline {subsubsection}{Other methods}{19}{figure.caption.13}%
-\contentsline {section}{\numberline {2.3}Emerging techniques for online monitoring}{20}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Ultrasonic Structural Health Monitoring}{20}{subsection.2.3.1}%
-\contentsline {subsubsection}{Temperature Compensation Techniques}{21}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Acoustic temperature sensing}{21}{subsection.2.3.2}%
-\contentsline {subsubsection}{Measurement devices for the generation and acquisition of guided waves}{22}{subsection.2.3.2}%
-\contentsline {subsubsection}{Piezoelectric selection for high temperature sensing}{25}{figure.caption.18}%
-\contentsline {subsection}{\numberline {2.3.3}Introducing Lamb waves for temperature sensing}{26}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2.4}Conclusion}{31}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Empirical \& Analytical Studies}{33}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Analytical study}{34}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Empirical study}{37}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Test Method}{37}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Results}{38}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Experimental sensitivity analysis}{39}{subsection.3.2.3}%
-\contentsline {section}{\numberline {3.3}Conclusion}{40}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Simulations}{42}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Plan}{43}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Future plans}{43}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Gantt chart}{43}{section.5.2}%
+\contentsline {subsection}{\numberline {2.2.2}Offline Monitoring Methods}{11}{subsection.2.2.2}%
+\contentsline {subsubsection}{Thermal paint or Temperature indicating paint}{11}{table.caption.5}%
+\contentsline {subsubsection}{Thermal history sensors}{13}{figure.caption.7}%
+\contentsline {subsubsection}{Other offline sensors}{14}{figure.caption.7}%
+\contentsline {subsection}{\numberline {2.2.3}Online Monitoring Methods}{15}{subsection.2.2.3}%
+\contentsline {subsubsection}{Thermocouples}{16}{table.caption.9}%
+\contentsline {subsubsection}{Pyrometry}{17}{figure.caption.10}%
+\contentsline {subsubsection}{Temperature sensitive paints}{19}{figure.caption.12}%
+\contentsline {subsubsection}{Thermographic phosphors}{19}{figure.caption.12}%
+\contentsline {subsubsection}{Other methods}{21}{figure.caption.13}%
+\contentsline {section}{\numberline {2.3}Emerging techniques for online monitoring}{21}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Ultrasonic Structural Health Monitoring}{21}{subsection.2.3.1}%
+\contentsline {subsubsection}{Temperature Compensation Techniques}{22}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Acoustic temperature sensing}{23}{subsection.2.3.2}%
+\contentsline {subsubsection}{Measurement devices for the generation and acquisition of guided waves}{24}{subsection.2.3.2}%
+\contentsline {subsubsection}{Piezoelectric selection for high temperature sensing}{27}{figure.caption.18}%
+\contentsline {subsection}{\numberline {2.3.3}Introducing Lamb waves for temperature sensing}{28}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Conclusion}{32}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Empirical \& Analytical Studies}{35}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Analytical study}{36}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Empirical study}{39}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Test Method}{39}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Results}{40}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Experimental sensitivity analysis}{41}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Conclusion}{43}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Simulations}{44}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Plan}{45}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Research Summary}{45}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Future plans}{45}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Gantt chart}{46}{section.5.3}%
