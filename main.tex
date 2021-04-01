@@ -101,16 +101,14 @@ At this stage in the study the application of transducers to an NGV is being ign
 
 The overarching research objective is to develop an online temperature monitoring system for jet engine nozzle guide vanes. This includes signal generation, data acquisition, and a signal processing system. Ideally, the system will be capable of monitoring temperature with a resolution, accuracy, and response time, comparable with traditional temperature monitoring systems. This requires the following challenges to be addressed:
 
-\subsection{Up to 18 month review}
-\begin{itemize}
-    \item Evaluation of the currently used methods for temperature monitoring of NGVs/turbine blades, with a focus on online methods. The outcome of this study can provide the requirements for the development of a new system. This is addressed in Section~\ref{tempmonitoringmethods}.
-    \item Determine whether ultrasonic methods are a suitable alternative to the currently available monitoring systems, based on a number of factors such as: response time, accuracy, reliability, power consumption, and possible sensor installation methods. This is addressed in Section~\ref{ultrasonicmonitoring}.
-    \item Identifying a method of exciting Lamb waves in plate-like structures. This is addressed in Section~\ref{wavegen}.
-    \item Understanding the effect of temperature on Lamb wave propagation. This is addressed in Section~\ref{lambwavesensing}.
-    \item Verification of the theoretical temperature sensitivities of Lamb wave modes with experimental data. Measurements up to 100\si{\degreeCelsius} in an aluminium plate. Measurements to be extended to higher order modes. This is addressed in Section~\ref{lambtheory}.
-    \item COMSOL modelling of the system. This will allow the effect of temperature on each element of the system to be predicted. The model can be developed over time to include features such as cooling holes and other transducer configurations.
-\end{itemize}    
-\subsection{From 18 month review onwards}
+\subsection{Research questions}
+\itemize
+\item What is the impact of temperatures on the wave velocity of Lamb wave modes?
+\item What is the most suitable transducer configuration for attaching to nozzle guide vanes?
+\item How do cooling holes affect wave propagation? Can they be used to monitor temperature at multiple locations?
+\item How does the curved surface of NGVs affect wave propagation?
+   
+\subsection{Plans from 18 month review onwards}
 \begin{itemize}
     \item Investigating a method of mapping temperature across the surface of an NGV\@. It is suspected that the numerous cooling holes found across the surface of an NGV would provide acoustic reflections. The varying time of flight between each reflection could be used to monitor temperature at multiple locations. This will be investigated experimentally by introducing holes into a test plate, and modelled using COMSOL\@.
     \item Development of a transducer configuration suitable for use at high temperatures (see potential options in Section~\ref{wavegen}). Based on further research a new set of transducers will be tested to verify their ability to send/receive Lamb waves and monitor a change in temperature. Moving away from the use of wedges will allow operation at higher temperatures but will limit the ability to excite single modes. This is likely to complicate signal analysis and so further signal processing development will be required.
@@ -579,13 +577,23 @@ The multiphysics simulation package COMSOL has been used to simulate the current
 
 \chapter{Plan}\label{plan}
 
+\section{Research Summary}
+
+Prior to the 18 month confirmation review the following research has been undertaken:
+
+\begin{itemize}
+    \item Evaluation of the currently used methods for temperature monitoring of NGVs/turbine blades, with a focus on online methods. The outcome of this study can provide the requirements for the development of a new system. This is addressed in Section~\ref{tempmonitoringmethods}.
+    \item Determine whether ultrasonic methods are a suitable alternative to the currently available monitoring systems, based on a number of factors such as: response time, accuracy, reliability, power consumption, and possible sensor installation methods. This is addressed in Section~\ref{ultrasonicmonitoring}.
+    \item Identifying a method of exciting Lamb waves in plate-like structures. This is addressed in Section~\ref{wavegen}.
+    \item Understanding the effect of temperature on Lamb wave propagation. This is addressed in Section~\ref{lambwavesensing}.
+    \item Verification of the theoretical temperature sensitivities of Lamb wave modes with experimental data. Measurements up to 100\si{\degreeCelsius} in an aluminium plate. Measurements to be extended to higher order modes. This is addressed in Section~\ref{lambtheory}.
+    \item COMSOL modelling of the system. This will allow the effect of temperature on each element of the system to be predicted. The model can be developed over time to include features such as cooling holes and other transducer configurations.
+\end{itemize} 
+
 \section{Future plans}
 
 \begin{itemize}
-    \item The next target is to produce results suitable for publication (submission deadline for ISABE2021 is March 2021). This includes utilisation of the $S_0$ mode for temperature monitoring up to 150\si{\degreeCelsius} (below Perspex wedge melting point) in an aluminium plate, and theoretical calculation of mode sensitivities based on material properties for validation. 
-    \item Frequency/thickness product can be raised to excite higher order modes (or HOMCs) which could be appropriate when using more broadband transducers (e.g.\ PWAS). This can be achieved by increasing the thickness of the plate or by using transducers at higher frequencies.
     \item As the temperature is further increased it will have more of an effect on the operation of transducers. The effect on amplitude and frequency can be investigated.
-    \item Modelling of the system (COMSOL) would allow for a better understanding of how temperature is affecting the transducer, wedge, and plate. Additional models can be produced as the system develops.
     \item Reflection points (holes) can be introduced to the aluminium plate in order to map temperature at a number of locations. Time of flight can be measured between each reflection. This will mimic the cooling holes found on NGVs. The results of this experiment can be included in a subsequent publication (to submit mid 2021?). 
     \item To operate at higher temperatures a new transducer configuration will be required. Piezoelectric Wafer Active Sensors (PWAS) using piezoelectric materials such as YCOB or AlN (that can operate at extremely high temperatures) are a potential option. Another option is to distance the transducers away from the high temperatures using waveguides, and couple into the test structure using a system of Hertzian contact points. Both options require further investigation. 
 \end{itemize}
