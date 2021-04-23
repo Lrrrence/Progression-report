@@ -31,12 +31,14 @@
 \contentsline {chapter}{\numberline {4}Simulations}{36}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Variable angle wedge simulation}{36}{section.4.1}%
 \contentsline {chapter}{\numberline {5}Experimental investigation of Lamb wave temperature sensitivity}{38}{chapter.5}%
-\contentsline {section}{\numberline {5.1}S0 mode temperature sensitivity}{38}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Test Method}{39}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Results}{41}{subsection.5.1.2}%
-\contentsline {subsection}{\numberline {5.1.3}Experimental sensitivity analysis}{41}{subsection.5.1.3}%
-\contentsline {section}{\numberline {5.2}Conclusion}{42}{section.5.2}%
+\contentsline {section}{\numberline {5.1}Test Method}{39}{section.5.1}%
+\contentsline {section}{\numberline {5.2}S0 mode (1 MHz-mm)}{40}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}S0 mode results}{41}{subsection.5.2.1}%
+\contentsline {section}{\numberline {5.3}A1 mode (2.5 MHz-mm)}{42}{section.5.3}%
+\contentsline {section}{\numberline {5.4}S1 mode (4 MHz-mm)}{42}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Experimental sensitivity analysis}{42}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Conclusion}{42}{section.5.6}%
 \contentsline {chapter}{\numberline {6}Plan}{44}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Research Summary}{44}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Future plans}{44}{section.6.2}%
+\contentsline {section}{\numberline {6.2}Future plans}{45}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Gantt chart}{45}{section.6.3}%
