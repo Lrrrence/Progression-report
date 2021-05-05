@@ -74,7 +74,7 @@ labelsep=endash]{caption}
 
 This study will investigate the use of ultrasonic guided waves (Lamb waves) for the temperature monitoring of nozzle guide vanes (NGVs). These components are found in the turbine section of jet engines and are operated at extremely high temperatures. A literature review has been carried out that covers the existing temperature monitoring systems for turbine blades and nozzle guide vanes. Both offline and online methods are presented and their advantages and disadvantages are examined. The use of offline systems is well established but their online equivalents are difficult to implement because of the limited access to components. There is the need for an improved sensor that is capable of mapping temperature in real time with minimum interference to the operating conditions of the engine, allowing operating temperatures to be increased to the limits of the components and maximising efficiency. Acoustic monitoring techniques are already used for a large number of structural health monitoring (SHM) applications and have the potential to be adapted for use in temperature monitoring for turbine blades and NGVs. High temperatures severely affect the response of ultrasonic transducers. However, waveguides and buffer rods can be used to distance transducers from extreme conditions, while piezoelectric materials such as YCOB and AlN have been developed for use at high temperatures. The geometry of turbine blades and NGVs allows Lamb waves to propagate through their structure, and the presence of numerous cooling holes will produce acoustic reflections that have the potential to be utilised for temperature mapping.
 
-A number of studies are underway to investigate the effects of the physical environment on wave propagation, and to determine the Lamb wave mode best suited to the application. The generation of dispersion curves from material properties allows theoretical temperature sensitivity to be analysed, which has been verified experimentally. A test system has been developed to target modes of interest, and analyse the effect of temperature (and other factors) on wave propagation. A COMSOL model has also been developed that will be used in future studies to investigate the effect of cooling holes, surface coatings, and curved surfaces on wave propagation. The model will also be used to investigate different sensor configurations that can be implemented on an NGV. 
+A number of studies are underway to investigate the effects of the physical environment on wave propagation, and to determine the Lamb wave mode best suited to the application. The generation of dispersion curves from material properties allows theoretical temperature sensitivity to be determined, which has been verified experimentally. A test system has been developed to target modes of interest, and analyse the effect of temperature (and other factors) on wave propagation. A COMSOL model has also been developed that will be used in future studies to investigate the effect of cooling holes, surface coatings, and curved surfaces on wave propagation. The model will also be used to investigate different sensor configurations that can be implemented on an NGV. 
 
 \end{abstract}
 
@@ -91,7 +91,7 @@ The study can be classified into four sections:
 \begin{itemize}
     \item Chapter~\ref{literev} -- A literature review of the currently available temperature monitoring methods for nozzle guide vanes, and the potential for guided wave based systems.
     \item Chapter~\ref{theory} -- Theoretical analysis of Lamb wave temperature sensitivity.
-    \item Chapter~\ref{simulations} -- COMSOL modelling of a monitoring system.
+    \item Chapter~\ref{simulations} -- COMSOL modelling of a temperature monitoring system.
     \item Chapter~\ref{experiments} -- Experimental investigations into Lamb wave temperature sensitivity, and the factors affecting wave propagation.
 \end{itemize}
 
@@ -148,7 +148,7 @@ These objectives raise the following research questions:
 \begin{itemize}
     \item Student poster ``Temperature Monitoring Of Nozzle Guide Vanes (NGVs) Using Ultrasonic Guided Waves'' presented at \href{https://event.asme.org/Turbo-Expo}{ASME Turbo Expo 2020.} Virtual conference 21--25 September 2020.
     \item Journal review paper ``Surface temperature condition monitoring methods for aerospace turbomachinery: exploring the use of ultrasonic guided waves''~\cite{Yule2021} published to \href{https://iopscience.iop.org/journal/0957-0233}{IOP Measurement, Science, and Technology.}
-    \item Conference paper ``Towards in-flight temperature monitoring for nozzle guide vanes using ultrasonic guided waves'' submitted to \href{https://www.aiaa.org/propulsionenergy}{AIAA Propulsion Energy}.
+    \item Conference paper ``Towards in-flight temperature monitoring for nozzle guide vanes using ultrasonic guided waves'' accepted for \href{https://www.aiaa.org/propulsionenergy}{AIAA Propulsion Energy}, 9--11 August 2021.
 \end{itemize}
 
 \chapter{Literature Review}\label{literev}
@@ -513,7 +513,7 @@ The group velocity of the $S_0$, $A_1$, and $S_1$ modes have been extracted from
     \caption{$S_0$, $A_1$, and $S_1$ group velocity change with temperature from 20\si{\degreeCelsius} to 100\si{\degreeCelsius} for Aluminium 1050 H14.}\label{fig:alugroupvel}
 \end{figure}
 
-\chapter{COMSOL simulations}\label{simulations}
+\chapter{COMSOL simulations of Lamb wave propagation}\label{simulations}
 
 The multiphysics simulation package COMSOL has been used to simulate potential temperature monitoring systems, investigating the effect of temperature on Lamb wave propagation.
 
@@ -521,38 +521,48 @@ The multiphysics simulation package COMSOL has been used to simulate potential t
 
 A 2D model has been produced of the experimental test setup described in Section~\ref{experiments}. This allows for validation of the time of flight measurements, and can be used to separate the effect of temperature on the wedges from the substrate. The effect of temperature on the Lamb wave alone can therefore be analysed. 
 
-The model consists of two variable angle wedges (PMMA), which are based on the geometry of the Olympus variable angle wedges used in the experimental investigation, placed on top of an aluminium plate. The transmitting wedge has a simplified piezoelectric transducer (PZT-5H) attached to it's rotating block, to which the excitation signal is applied. The received signal is measured at the receiver wedge's rotating block boundary. More realistic transducer configurations are not considered in this study, as the focus is on the effect of temperature on the propagating wave.
-
-A boundary area is set underneath the plate to act as the heat source, again mimicking the experimental setup. This is simplified to allow the temperature to be directly set, rather than simulating a hot plate.
-
-The excitation signal is the same as that used in the experimental study, a 10--cycle sine pulse, the function for which is produced with the expression:
+The model consists of two variable angle wedges (PMMA), which are based on the geometry of the Olympus variable angle wedges used in the experimental investigation, placed on top of an aluminium plate. The transmitting wedge has a simplified piezoelectric transducer (PZT-5H) attached to it's rotating block, to which the excitation signal is applied. The geometry can be seen in Figure \ref{fig:COMSOLpressure}. The received signal is measured at the receiver wedge's rotating block boundary. More realistic transducer configurations are not considered in this study, as the focus is on the effect of temperature on the propagating wave. A boundary area is set underneath the plate to act as the heat source, again mimicking the experimental setup. This is simplified to allow the temperature to be directly set, rather than simulating a hot plate.
 %
-\begin{equation}\label{eqn:comsolexcitation}
-    10 \times \sin{(2\pi f_{0}\text{t}) \times \left( \text{t} < \left( \frac{\text{np}}{f_{0}} \right) \right)}
-\end{equation}
+%\begin{equation}\label{eqn:comsolexcitation}
+   % 10 \times \sin{(2\pi f_{0}\text{t}) \times \left( \text{t} < \left( \frac{\text{np}}{f_{0}} \right) \right)}
+%\end{equation}
 % 
-Where ``np'' is the number of cycles in the pulse (10) and $f_0$ is the excitation frequency (1~MHz). The function is set to ``V'' as this will be applied to a voltage terminal of the simple piezoelectric transducer.
+%Where ``np'' is the number of cycles in the pulse (10) and $f_0$ is the excitation frequency (1~MHz). The function is set to ``V'' as this will be applied to a voltage terminal of the simple piezoelectric transducer.
 %
-The change in Young's Modulus with temperature is included in the material properties for both the wedges~\cite{Sahputra2018} and the aluminium~\cite{Hopkins2012}. The change in Poisson's ratio and density is assumed to negligible and is not included in the simulation. Thermal expansion is included based on thermal expansion coefficients given by COMSOL\@.
+The change in Young's Modulus with temperature is included in the material properties for both the wedges~\cite{Sahputra2018} and the aluminium~\cite{Hopkins2012}. The change in Poisson's ratio and density is assumed to negligible and is not included in the simulation. Thermal expansion is also considered to have a negligible effect on the propagation distance and is excluded.
 
 The modules Solid Mechanics, Electrostatics, and Heat Transfer in Solids are used in this simulation, along with a multiphysics node to couple Solid Mechanics with Electrostatics for the piezoelectric effect.
 
 Both the wedges and the plate are set to isotropic linear elastic materials, with low reflecting boundaries applied to the wedges.
 
-The simple piezoelectric transducer for the transmitting wedge is set up as follows: A zero charge node is used for the edges of the material, initial values are set to 0 V, a ``Charge Conservation, Piezoelectric'' node is set for the material, a ground boundary is selected for the wedge side of the material, and a terminal node is set for the opposite boundary. Within the terminal node the type is set to Voltage and the input is set to V0(t) to use the excitation signal described in Equation~\ref{eqn:comsolexcitation}.
+The simple piezoelectric transducer for the transmitting wedge is set up as follows: A zero charge node is used for the edges of the material, initial values are set to 0 V, a ``Charge Conservation, Piezoelectric'' node is set for the material, a ground boundary is selected for the wedge side of the material, and a terminal node is set for the opposite boundary. Within the terminal node the type is set to Voltage and the input is set to V0(t). The excitation signal is a 1 MHz 5--cycle Hamming windowed sine pulse.
 
 For the Heat Transfer in Solids module all the domains are set to solid, and initial values are set to 20\si{\degreeCelsius}. The boundaries that are exposed to the air are selected in a Heat Flux node, where convective heat flux is selected. A user defined heat transfer coefficient of 15~W/(m$^2\cdot$K) is used. The external temperature is set to 20\si{\degreeCelsius}. The temperature of the boundary underneath the plate is adjusted as required.
 
 In order to accurately resolve a wave, at least 10--12 elements per local wavelength are required. This assumes linear discretization for all modules. The excitation wavelength for each of the materials is calculated by dividing their longitudinal wave speed by $f_0$. A free triangular mesh is created for each of the materials, and the maximum element size for each of them is set to LocalWavelength/N. If higher frequency content is expected, the wavelength for each material should be based on the highest frequency expected rather than $f_0$.
 
-This study has two steps, firstly a stationary study to simulate the effect of temperature on the system until an equilibrium is reached, and secondly a time dependant study to simulate wave propagation that has it's initial conditions set by the stationary study. The settings for the initial study are adjusted to not solve for electrostatics/the piezoelectric effect. The time dependant study has it's ``Output times'' set to: range(0,dt,sim\textunderscore length) where ``dt'' is a global definition parameter equal to CFL/(N$\times f_0$). The CFL number is suggested by COMSOL to be less than 0.2, optimally 0.1. Under "Values of Dependant Variables" the settings are changed to user controlled, method is changed to Solution, and the study is set to the stationary study. The time step is manually set under Solver Configurations$>$Solution 1$>$Time dependant solver$>$Time stepping. Here the ``Steps taken by solver'' parameter is changed to ``Manual'' and the ``Time Step'' is set to: CFL/(N$\times f_0$). 
+This study has two steps, firstly a stationary study to simulate the effect of temperature on the system until an equilibrium is reached, and secondly a time dependant study to simulate wave propagation that has it's initial conditions set by the stationary study. The settings for the initial study are adjusted to not solve for electrostatics/the piezoelectric effect. The time dependant study has it's ``Output times'' set to: range(0,dt,sim\textunderscore length) where ``dt'' is a global definition parameter equal to CFL/(N$\times f_0$). The CFL number is suggested by COMSOL to be less than 0.2, optimally 0.1. Under ``Values of Dependant Variables'' the settings are changed to user controlled, method is changed to Solution, and the study is set to the stationary study. The time step is manually set under Solver Configurations$>$Solution 1$>$Time dependant solver$>$Time stepping. Here the ``Steps taken by solver'' parameter is changed to ``Manual'' and the ``Time Step'' is set to: CFL/(N$\times f_0$). 
 
-Pressure at both transmitter and receiver wedge boundaries are exported, and the time of flight is measured using a cross-correlation method to allow direct comparison with experimental results.
+Exaggerated deformation of pressure in the plate as seen in Figure \ref{fig:simmodes} makes the presence of the $A_0$ and $S_0$ modes clearly visible. The modes are separated in the time domain after a short distance ($\sim$~50 mm) due to the difference in group velocity. 
 
-\begin{figure}[!htbp]
+To visual wave propagation and calculate time of flight the pressure at both transmitter and receiver wedge boundaries are exported, and the time of flight is measured using a cross-correlation method to allow direct comparison with experimental results. An example of wave propagation at room temperature can be seen in Figure \ref{fig:COMSOLsimsignal}. 
+
+\begin{figure}[p]
     \centering
     \includegraphics[width=\textwidth]{./figures/COMSOLpressure.png}
     \caption{COMSOL simulation of $S_0$ mode propagation in 1 mm thick aluminium plate}\label{fig:COMSOLpressure}
+\end{figure}
+
+\begin{figure}[p]
+    \centering
+    \includegraphics[width=\textwidth]{./figures/simmodes.png}
+    \caption{Presence of the $A_0$ \& $S_0$ modes}\label{fig:simmodes}
+\end{figure}
+
+\begin{figure}[p]
+    \centering
+    \includegraphics[width=\textwidth]{./figures/simpulse20cedit.eps}
+    \caption{COMSOL simulation of $S_0$ mode propagation at room temperature}\label{fig:COMSOLsimsignal}
 \end{figure}
 
 \chapter{Experimental investigation of Lamb wave temperature sensitivity}\label{experiments}

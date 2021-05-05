@@ -28,7 +28,7 @@
 \contentsline {chapter}{\numberline {3}Theoretical temperature sensitivity of Lamb waves}{33}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Multi-modal Lamb waves}{33}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Generation of dispersion curves}{34}{section.3.2}%
-\contentsline {chapter}{\numberline {4}COMSOL simulations}{36}{chapter.4}%
+\contentsline {chapter}{\numberline {4}COMSOL simulations of Lamb wave propagation}{36}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Variable angle wedge simulation}{36}{section.4.1}%
 \contentsline {chapter}{\numberline {5}Experimental investigation of Lamb wave temperature sensitivity}{39}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Test Method}{40}{section.5.1}%
