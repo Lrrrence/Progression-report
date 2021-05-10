@@ -6,6 +6,7 @@
 \usepackage{xcolor}
 \usepackage{amssymb}
 \usepackage{tabu}
+\usepackage{tabulary}
 \usepackage{booktabs}
 \usepackage{moreverb,url}
 \usepackage[colorlinks,bookmarksopen,bookmarksnumbered,citecolor=red,urlcolor=blue]{hyperref}
@@ -31,7 +32,7 @@ labelsep=endash]{caption}
 \definecolor{groupblue}{RGB}{51,102,254}
 \definecolor{linkred}{RGB}{165,0,33} 
 
-\geometry{a4paper,textwidth=14cm, textheight=21.3cm, marginratio={1:1,5:7}}
+\geometry{a4paper,textwidth=15cm, textheight=21.3cm, marginratio={1:1,5:7}}
 
 \begin{document}
 
@@ -527,7 +528,7 @@ The multiphysics simulation package COMSOL has been used to simulate potential t
 
 A 2D model has been produced of the experimental test setup described in Section~\ref{experiments}. This allows for validation of the time of flight measurements, and can be used to separate the effect of temperature on the wedges from the substrate. The effect of temperature on the Lamb wave alone can therefore be analysed. 
 
-The model consists of two variable angle wedges (PMMA), which are based on the geometry of the Olympus variable angle wedges used in the experimental investigation, placed on top of an aluminium plate. The thickness of the plate can be varied to target different Lamb wave modes at different frequency--thickness products. The initial thickness is set to 1 mm to target the $S_0$ mode at 1 MHz--mm. The transmitting wedge has a simplified piezoelectric transducer (PZT-5H) attached to it's rotating block, to which the excitation signal is applied. The geometry can be seen in Figure \ref{fig:COMSOLpressure}. The received signal is measured at the receiver wedge's rotating block boundary. More realistic transducer configurations are not considered in this study, as the focus is on the effect of temperature on the propagating wave. A boundary area is set underneath the plate to act as the heat source, again mimicking the experimental setup. This is simplified to allow the temperature to be directly set, rather than simulating a hot plate.
+The model consists of two variable angle wedges (PMMA), which are based on the geometry of the Olympus variable angle wedges used in the experimental investigation, placed on top of an aluminium plate. The thickness of the plate can be varied to target different Lamb wave modes at different frequency--thickness products. The initial thickness is set to 1 mm to target the $S_0$ mode at 1 MHz--mm. The transmitting wedge has a simplified piezoelectric transducer (PZT-5H) attached to it's rotating block, to which the excitation signal is applied. The geometry can be seen in Figure \ref{fig:COMSOLdiagram}. The received signal is measured at the receiver wedge's rotating block boundary. More realistic transducer configurations are not considered in this study, as the focus is on the effect of temperature on the propagating wave. A boundary area is set underneath the plate to act as the heat source, again mimicking the experimental setup. This is simplified to allow the temperature to be directly set, rather than simulating a hot plate.
 %
 %\begin{equation}\label{eqn:comsolexcitation}
    % 10 \times \sin{(2\pi f_{0}\text{t}) \times \left( \text{t} < \left( \frac{\text{np}}{f_{0}} \right) \right)}
@@ -545,7 +546,7 @@ The simple piezoelectric transducer for the transmitting wedge is set up as foll
 
 For the Heat Transfer in Solids module all the domains are set to solid, and initial values are set to 20\si{\degreeCelsius}. The boundaries that are exposed to the air are selected in a Heat Flux node, where convective heat flux is selected. A user defined heat transfer coefficient of 15~W/(m$^2\cdot$K) is used. The external temperature is set to 20\si{\degreeCelsius}. The temperature of the boundary underneath the plate is adjusted as required.
 
-In order to accurately resolve a wave, at least 10--12 elements per local wavelength are required. This assumes linear discretization for all modules. The excitation wavelength for each of the materials is calculated by dividing their longitudinal wave speed by $f_0$. A free triangular mesh is created for each of the materials, and the maximum element size for each of them is set to LocalWavelength/N. If higher frequency content is expected, the wavelength for each material should be based on the highest frequency expected rather than $f_0$.
+The mesh size for each material is determined by excitation frequency. The excitation wavelength for each of the materials is calculated by dividing their longitudinal wave speed by $f_0$. A free triangular mesh is created for each of the materials, and the maximum element size for each of them is set to LocalWavelength/N. If higher frequency content is expected, the wavelength for each material should be based on the highest frequency expected rather than $f_0$. In order to accurately resolve a wave, at least 10--12 elements per local wavelength are required. This assumes linear discretization for all modules. Using 12 elements results in an average skewness rating (measure of element quality, 0--1) of 0.9345 over 154728 elements.
 
 This study has two steps, firstly a stationary study to simulate the effect of temperature on the system until an equilibrium is reached, and secondly a time dependant study to simulate wave propagation that has it's initial conditions set by the stationary study. The settings for the initial study are adjusted to not solve for electrostatics/the piezoelectric effect. The time dependant study has it's ``Output times'' set to: range(0,dt,sim\textunderscore length) where ``dt'' is a global definition parameter equal to CFL/(N$\times f_0$). The CFL number is suggested by COMSOL to be less than 0.2, optimally 0.1. Under ``Values of Dependant Variables'' the settings are changed to user controlled, method is changed to Solution, and the study is set to the stationary study. The time step is manually set under Solver Configurations$>$Solution 1$>$Time dependant solver$>$Time stepping. Here the ``Steps taken by solver'' parameter is changed to ``Manual'' and the ``Time Step'' is set to: CFL/(N$\times f_0$). 
 
@@ -555,8 +556,8 @@ To visualise wave propagation and calculate time of flight the pressure at both 
 
 \begin{figure}[p]
     \centering
-    \includegraphics[width=\textwidth]{./figures/COMSOLpressure.png}
-    \caption{COMSOL simulation of $S_0$ mode propagation in 1 mm thick aluminium plate.}\label{fig:COMSOLpressure}
+    \includegraphics[width=\textwidth]{./figures/comsoldiagram.png}
+    \caption{COMSOL geometry diagram}\label{fig:COMSOLdiagram}
 \end{figure}
 
 \begin{figure}[p]
@@ -599,7 +600,7 @@ Where $\alpha$ is the coefficient of thermal expansion of the medium and $k$ is 
 k = \frac{\delta \text{c}}{\delta \text{T}}
 \end{equation} 
 %
-A signal generator (Hewlett Packard 33120A) has been used to generate a 10-cycle tone burst at 1~MHz. Time of flight ($t_F$) is measured between transducers using a cross-correlation function, and wave velocity is calculated from the distance between transducers. Based on a sampling rate of 5 $\times$ 10$^8$ the theoretical maximum temporal resolution is 2 ns. This is equal to a velocity resolution of $\pm$ 0.35 m s$^{-1}$. The propagation time through the wedges at each temperature has been subtracted from the total $t_F$ to ensure that only the propagation time through the plate is measured. Wave velocity is calculated using Equation~\ref{velocitycalc}/\ref{velocitycalcfull}. 
+A signal generator (Hewlett Packard 33120A) has been used to generate a 10-cycle tone burst at 1~MHz. Time of flight ($t_F$) is measured between transducers using a cross-correlation function in MATLAB, and wave velocity is calculated from the distance between transducers. Based on a sampling rate of 5 $\times$ 10$^8$ the theoretical maximum temporal resolution is 2 ns. This is equal to a velocity resolution of $\pm$ 0.35 m s$^{-1}$. The propagation time through the wedges at each temperature has been subtracted from the total $t_F$ to ensure that only the propagation time through the plate is measured. Wave velocity is calculated using Equation~\ref{velocitycalc}/\ref{velocitycalcfull}. 
 %
 \begin{equation} \label{velocitycalc}
 v = \frac{d}{t_F}
@@ -611,6 +612,24 @@ v = \left( \frac{d\;\text{between wedges} + d\;\text{wedge foot offset}}{\text{T
 %
 \\
 Where the $d$ wedge foot offset is 0.0425 m. Measurements have been carried out at multiple temperatures (20\si{\degreeCelsius}--100\si{\degreeCelsius} in $\sim$10\si{\degreeCelsius} increments).
+
+\begin{table}
+    \centering
+    \begin{tabulary}{\textwidth}{L}
+        \hline
+        \textbf{Measurement Hardware}     \\
+        \hline
+        2x Olympus ABWX-2001 Variable angle wedges \\
+        2x Olympus A539S-SM 1 MHz transducers \\
+        Olympus ultrasonic couplant B \\
+        Hewlett Packard/Agilent 33120A Signal generator \\
+        Picoscope 3406DMSO USB Oscilloscope \\
+        Thermadata T-type temperature loggers \\
+        VWR Hot plate \\
+        \hline
+    \end{tabulary} 
+    \caption{Experimental measurement hardware}\label{table:hardware}
+\end{table}
 
 \begin{figure}[ht]
     \centering
@@ -658,7 +677,11 @@ Figure~\ref{fig:result} shows experimentally measured wave velocity of the $S_0$
 
 \section{A1 mode (2.5 MHz-mm)}
 
+Experimental measurements are underway on this mode. Initial studies indicate that only the $A_1$ mode is present.
+
 \section{S1 mode (4 MHz-mm)}
+
+Experimental measurements are planned in the near future for this mode. Initial studies indicate that this region of frequency-thickness is multi--modal and both the $A_1$ and $S_1$ modes will be present, due to similarities in phase velocity and excitation angle. This study will benefit from the use of short windowed pulses that will aide in separating the modes in the time domain.
 
 \section{Experimental sensitivity analysis}
 
