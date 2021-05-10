@@ -5,16 +5,16 @@
 \contentsline {chapter}{\numberline {2}Literature Review}{7}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduction}{7}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Current surface temperature monitoring strategies}{9}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Numerical methods for temperature estimation}{10}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.1}Numerical methods for temperature estimation}{9}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Offline Monitoring Methods}{10}{subsection.2.2.2}%
 \contentsline {subsubsection}{Thermal paint or Temperature indicating paint}{10}{subsection.2.2.2}%
 \contentsline {subsubsection}{Thermal history sensors}{12}{figure.caption.6}%
 \contentsline {subsubsection}{Other offline sensors}{13}{figure.caption.6}%
 \contentsline {subsection}{\numberline {2.2.3}Online Monitoring Methods}{14}{subsection.2.2.3}%
-\contentsline {subsubsection}{Thermocouples}{15}{subsection.2.2.3}%
+\contentsline {subsubsection}{Thermocouples}{14}{subsection.2.2.3}%
 \contentsline {subsubsection}{Pyrometry}{16}{figure.caption.8}%
-\contentsline {subsubsection}{Temperature sensitive paints}{17}{figure.caption.10}%
-\contentsline {subsubsection}{Thermographic phosphors}{17}{figure.caption.10}%
+\contentsline {subsubsection}{Temperature sensitive paints}{16}{figure.caption.10}%
+\contentsline {subsubsection}{Thermographic phosphors}{18}{figure.caption.10}%
 \contentsline {subsubsection}{Other methods}{19}{figure.caption.11}%
 \contentsline {section}{\numberline {2.3}Emerging techniques for online monitoring}{21}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Ultrasonic Structural Health Monitoring}{21}{subsection.2.3.1}%
@@ -24,21 +24,21 @@
 \contentsline {subsubsection}{Piezoelectric selection for high temperature sensing}{27}{figure.caption.18}%
 \contentsline {subsection}{\numberline {2.3.3}Introducing Lamb waves for temperature sensing}{27}{subsection.2.3.3}%
 \contentsline {section}{\numberline {2.4}Conclusion}{32}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Other applications}{33}{section.2.5}%
-\contentsline {chapter}{\numberline {3}Theoretical temperature sensitivity of Lamb waves}{34}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Multi-modal Lamb waves}{34}{section.3.1}%
+\contentsline {section}{\numberline {2.5}Other applications}{34}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Theoretical temperature sensitivity of Lamb waves}{35}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Multi-modal Lamb waves}{35}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Generation of dispersion curves}{35}{section.3.2}%
-\contentsline {chapter}{\numberline {4}COMSOL simulations of Lamb wave propagation}{37}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Variable angle wedge simulation}{37}{section.4.1}%
-\contentsline {chapter}{\numberline {5}Experimental investigation of Lamb wave temperature sensitivity}{40}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Test Method}{41}{section.5.1}%
-\contentsline {section}{\numberline {5.2}S0 mode (1 MHz-mm)}{42}{section.5.2}%
+\contentsline {chapter}{\numberline {4}COMSOL simulations of Lamb wave propagation}{38}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Variable angle wedge simulation}{38}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Experimental investigation of Lamb wave temperature sensitivity}{41}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Test Method}{42}{section.5.1}%
+\contentsline {section}{\numberline {5.2}S0 mode (1 MHz-mm)}{43}{section.5.2}%
 \contentsline {subsection}{\numberline {5.2.1}S0 mode results}{43}{subsection.5.2.1}%
 \contentsline {section}{\numberline {5.3}A1 mode (2.5 MHz-mm)}{44}{section.5.3}%
 \contentsline {section}{\numberline {5.4}S1 mode (4 MHz-mm)}{44}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Experimental sensitivity analysis}{44}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Conclusion}{44}{section.5.6}%
-\contentsline {chapter}{\numberline {6}Plan}{46}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Research Summary}{46}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Future plans}{47}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Gantt chart}{47}{section.6.3}%
+\contentsline {section}{\numberline {5.5}Experimental sensitivity analysis}{45}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Conclusion}{46}{section.5.6}%
+\contentsline {chapter}{\numberline {6}Plan}{47}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Research Summary}{47}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Future plans}{48}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Gantt chart}{48}{section.6.3}%
