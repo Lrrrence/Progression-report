@@ -1507,6 +1507,10 @@ INPUT .\main.lot
 INPUT main.lot
 INPUT main.lot
 OUTPUT main.lot
+INPUT .\1 Intro.tex
+INPUT 1 Intro.tex
+INPUT .\1 Intro.tex
+INPUT 1 Intro.tex
 INPUT .\figures\turbine plus ngv.png
 INPUT .\figures\turbine plus ngv.png
 INPUT figures\turbine plus ngv.png
@@ -1517,6 +1521,10 @@ INPUT .\figures\turbine plus ngv.png
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx9.tfm
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\2 Literature Review.tex
+INPUT 2 Literature Review.tex
+INPUT .\2 Literature Review.tex
+INPUT 2 Literature Review.tex
 INPUT .\figures\Turbinecrosssection.eps
 INPUT .\figures\Turbinecrosssection.eps
 INPUT figures\Turbinecrosssection.eps
@@ -1605,6 +1613,10 @@ INPUT .\figures\yaneztempTBC-eps-converted-to.pdf
 INPUT .\figures\yaneztempTBC-eps-converted-to.pdf
 INPUT .\figures\yaneztempTBC-eps-converted-to.pdf
 INPUT C:\Users\yulel\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti9.tfm
+INPUT .\3 Acoustic temperature sensing.tex
+INPUT 3 Acoustic temperature sensing.tex
+INPUT .\3 Acoustic temperature sensing.tex
+INPUT 3 Acoustic temperature sensing.tex
 INPUT .\figures\SAW delay line.png
 INPUT .\figures\SAW delay line.png
 INPUT figures\SAW delay line.png
@@ -1739,18 +1751,10 @@ INPUT .\figures\grouptemp1mhztemp-eps-converted-to.pdf
 INPUT .\figures\grouptemp1mhztemp-eps-converted-to.pdf
 INPUT .\figures\grouptemp1mhztemp-eps-converted-to.pdf
 INPUT .\figures\grouptemp1mhztemp-eps-converted-to.pdf
-INPUT .\figures\multimodeedit.eps
-INPUT .\figures\multimodeedit.eps
-INPUT figures\multimodeedit.eps
-INPUT .\figures\multimodeedit.eps
-INPUT .\figures\multimodeedit.eps
-INPUT .\figures\multimodeedit-eps-converted-to.pdf
-INPUT .\figures\multimodeedit-eps-converted-to.pdf
-INPUT .\figures\multimodeedit.eps
-INPUT .\figures\multimodeedit-eps-converted-to.pdf
-INPUT .\figures\multimodeedit-eps-converted-to.pdf
-INPUT .\figures\multimodeedit-eps-converted-to.pdf
-INPUT .\figures\multimodeedit-eps-converted-to.pdf
+INPUT .\4 Lamb wave theory.tex
+INPUT 4 Lamb wave theory.tex
+INPUT .\4 Lamb wave theory.tex
+INPUT 4 Lamb wave theory.tex
 INPUT .\figures\grouptempshiftalu.eps
 INPUT .\figures\grouptempshiftalu.eps
 INPUT figures\grouptempshiftalu.eps
@@ -1775,6 +1779,22 @@ INPUT .\figures\grouptemp1mhztempalu-eps-converted-to.pdf
 INPUT .\figures\grouptemp1mhztempalu-eps-converted-to.pdf
 INPUT .\figures\grouptemp1mhztempalu-eps-converted-to.pdf
 INPUT .\figures\grouptemp1mhztempalu-eps-converted-to.pdf
+INPUT .\figures\multimodeedit.eps
+INPUT .\figures\multimodeedit.eps
+INPUT figures\multimodeedit.eps
+INPUT .\figures\multimodeedit.eps
+INPUT .\figures\multimodeedit.eps
+INPUT .\figures\multimodeedit-eps-converted-to.pdf
+INPUT .\figures\multimodeedit-eps-converted-to.pdf
+INPUT .\figures\multimodeedit.eps
+INPUT .\figures\multimodeedit-eps-converted-to.pdf
+INPUT .\figures\multimodeedit-eps-converted-to.pdf
+INPUT .\figures\multimodeedit-eps-converted-to.pdf
+INPUT .\figures\multimodeedit-eps-converted-to.pdf
+INPUT .\5 COMSOL.tex
+INPUT 5 COMSOL.tex
+INPUT .\5 COMSOL.tex
+INPUT 5 COMSOL.tex
 INPUT .\figures\comsoldiagram.png
 INPUT .\figures\comsoldiagram.png
 INPUT figures\comsoldiagram.png
@@ -1801,6 +1821,10 @@ INPUT .\figures\simpulse20cedit-eps-converted-to.pdf
 INPUT .\figures\simpulse20cedit-eps-converted-to.pdf
 INPUT .\figures\simpulse20cedit-eps-converted-to.pdf
 INPUT .\figures\simpulse20cedit-eps-converted-to.pdf
+INPUT .\6 Experiments.tex
+INPUT 6 Experiments.tex
+INPUT .\6 Experiments.tex
+INPUT 6 Experiments.tex
 INPUT .\figures\testdiagramsimple.eps
 INPUT .\figures\testdiagramsimple.eps
 INPUT figures\testdiagramsimple.eps
@@ -1844,6 +1868,46 @@ INPUT .\figures\aluplatemeasured-eps-converted-to.pdf
 INPUT .\figures\aluplatemeasured-eps-converted-to.pdf
 INPUT .\figures\aluplatemeasured-eps-converted-to.pdf
 INPUT .\figures\aluplatemeasured-eps-converted-to.pdf
+INPUT .\figures\a1moderesult.eps
+INPUT .\figures\a1moderesult.eps
+INPUT figures\a1moderesult.eps
+INPUT .\figures\a1moderesult.eps
+INPUT .\figures\a1moderesult.eps
+INPUT .\figures\a1moderesult-eps-converted-to.pdf
+INPUT .\figures\a1moderesult-eps-converted-to.pdf
+INPUT .\figures\a1moderesult.eps
+INPUT .\figures\a1moderesult-eps-converted-to.pdf
+INPUT .\figures\a1moderesult-eps-converted-to.pdf
+INPUT .\figures\a1moderesult-eps-converted-to.pdf
+INPUT .\figures\a1moderesult-eps-converted-to.pdf
+INPUT .\figures\S1modetimedomain.eps
+INPUT .\figures\S1modetimedomain.eps
+INPUT figures\S1modetimedomain.eps
+INPUT .\figures\S1modetimedomain.eps
+INPUT .\figures\S1modetimedomain.eps
+INPUT .\figures\S1modetimedomain-eps-converted-to.pdf
+INPUT .\figures\S1modetimedomain-eps-converted-to.pdf
+INPUT .\figures\S1modetimedomain.eps
+INPUT .\figures\S1modetimedomain-eps-converted-to.pdf
+INPUT .\figures\S1modetimedomain-eps-converted-to.pdf
+INPUT .\figures\S1modetimedomain-eps-converted-to.pdf
+INPUT .\figures\S1modetimedomain-eps-converted-to.pdf
+INPUT .\figures\s1moderesult.eps
+INPUT .\figures\s1moderesult.eps
+INPUT figures\s1moderesult.eps
+INPUT .\figures\s1moderesult.eps
+INPUT .\figures\s1moderesult.eps
+INPUT .\figures\s1moderesult-eps-converted-to.pdf
+INPUT .\figures\s1moderesult-eps-converted-to.pdf
+INPUT .\figures\s1moderesult.eps
+INPUT .\figures\s1moderesult-eps-converted-to.pdf
+INPUT .\figures\s1moderesult-eps-converted-to.pdf
+INPUT .\figures\s1moderesult-eps-converted-to.pdf
+INPUT .\figures\s1moderesult-eps-converted-to.pdf
+INPUT .\7 Research summary.tex
+INPUT 7 Research summary.tex
+INPUT .\7 Research summary.tex
+INPUT 7 Research summary.tex
 INPUT .\figures\gantt.pdf
 INPUT figures\gantt.pdf
 INPUT .\figures\gantt.pdf

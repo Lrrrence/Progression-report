@@ -1,0 +1,70 @@
+\chapter{Introduction}
+Nozzle guide vanes (NGVs) are static components found in the turbine section of a jet engine (Figure~\ref{fig:crossngv}). Temperature monitoring of these components is important for a number of reasons: identifying potential failures before they occur, evaluating the need for maintenance, investigating ways of improving engine efficiency, and reducing fuel consumption. Online temperature monitoring of NGVs is difficult to achieve with currently available technologies (see Chapter~\ref{literev}). Acoustic based monitoring methods offer a potential alternative. The velocity of acoustic waves is affected by temperature (among other properties) and can be used for temperature monitoring if a suitable sensor system can be developed and implemented. Transducers can be used to transmit acoustic waves through a material and analyse the received signal. The transducers can be placed away from harsh conditions (e.g.\ turbine gas paths) which would otherwise limit their operation. In the case of nozzle guide vanes (NGVs) their geometry allows for the propagation of Lamb waves at ultrasound frequencies. These waves are dispersive and many distinct modes can be present, which makes their analysis difficult. Despite this problem they can provide high temperature sensitivities (mode dependant) and can travel large distances with limited attenuation. Generation of these waves is possible with a number of different transducer configurations, but the choice is limited by the harsh conditions of the turbine and by space and power constraints. Two potential solutions are the use of waveguides to further distance transducers from the harsh environment, or the use of Piezoelectric Wafer Active Sensors (PWAS) which can be used at high temperatures with careful piezoelectric material selection.
+\newpage
+
+The study can be classified into five sections:
+\begin{itemize}
+    \item Chapter~\ref{literev} -- A literature review of the currently available temperature monitoring methods for nozzle guide vanes, both offline and online.
+    \item Chapter~\ref{ultrasonicmonitoring} -- An investigation into the potential for guided wave based temperature monitoring systems.
+    \item Chapter~\ref{theory} -- Theoretical analysis of Lamb wave temperature sensitivity.
+    \item Chapter~\ref{simulations} -- COMSOL modelling of a temperature monitoring system.
+    \item Chapter~\ref{experiments} -- Experimental investigations into Lamb wave temperature sensitivity, and the factors affecting wave propagation.
+\end{itemize}
+
+Theoretical evaluation of the temperature sensitivity of Lamb wave modes highlights the potential of the method. The sensitivities of the $S_0$, $A_1$, and $S_1$ modes for a 1 mm think Aluminium plate have been extracted from dispersion curves generated from material properties. The prediction indicates that group velocity will reduce with increasing temperature. An experimental test system has been developed to validate the theoretical predictions. Two variable angle wedge transducers have been used to target the modes of interest, and a measurement of time of flight between transducers has been used to calculate the group velocity. Results are in good agreement with theoretical predictions, showing that a time of flight based measurement system is capable of monitoring a change in temperature effectively.
+
+A COMSOL model has been developed to investigate the effect of other factors on wave propagation. This includes curved surfaces, surface coatings, and cooling holes. The presence of cooling holes is likely to have varying effects on different Lamb wave modes, and the acoustic reflections produced from interaction with the holes raises the possibility of monitoring temperature at a number of locations. The results of this study are likely to determine the most suitable Lamb wave mode (or group of modes) for temperature monitoring of nozzle guide vanes. The effect of holes on wave propagation will also be tested experimentally, to validate the model. Depending on the outcome of the study a signal processing system may be developed to allow for the monitoring of temperature from reflected waves.
+
+For installation on a nozzle guide vane the sensor system is required to operate at extremely high temperatures. A COMSOL model will be developed to test a system that can be used in this environment. A potential candidate is to use waveguides to distance transducers from the high temperatures, while reducing the difficulty in bonding to the structure by using Hertzian contact points. The model can be used to investigate the suitability of this method.
+
+A plan and Gantt chart detailing the aims of the project from 18 months onwards can be found in Section~\ref{plan}.
+
+\newpage
+\vspace*{\fill}
+
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[width=\textwidth]{./figures/turbine plus ngv.png}
+    \caption{Jet engine cross-section with NGV.}\label{fig:crossngv}
+\end{figure}
+
+\vspace{\fill}
+
+\newpage
+
+\section{Research objectives}
+
+The overarching research objective is to determine if a Lamb wave based temperature monitoring system is suitable for use on gas turbine nozzle guide vanes. Ideally a system will be capable of monitoring temperature with a resolution, accuracy, and response time, comparable with traditional temperature monitoring systems. With this in mind there are a number of points to be considered, including sensor configuration, wave propagation, environmental impact, and a signal processing. 
+
+One key objective is to understand the effects of the physical environment on wave propagation in an NGV-like structure. This includes evaluating the effects of the propagation medium (material properties, curved surfaces, cooling holes, and surface coatings), and environmental conditions (temperature, acoustic noise, and gas flow) on wave propagation. The conditions listed previously will have differing effects on different Lamb wave modes, which leads to an additional objective of identifying the most appropriate mode (or mode group) for temperature monitoring in this environment. In order to evaluate these factors a test system will be developed that can transmit/receive Lamb waves in an NGV-like structure, which will also allow investigation into the signal processing requirements of a real system. 
+
+Another objective is to identify a suitable sensor configuration that can survive in high temperatures, and operate under the restrictions of the environment. This includes low power operation, strict space constraints, and the ability to last for the lifetime of turbine with minimal servicing. Additionally, the type of sensor and the interface between the sensor and the NGV structure will impact the types of waves that can be generated, which further complicates the selection of suitable sensor configurations.
+
+A requirement for the monitoring of NGVs is the ability to monitor temperature spatially, in order to identify hot spots or likely points of failure. An objective of this study is to determine if the monitoring of temperature at multiple locations is possible, through the acoustic reflections created by wave interaction with cooling holes.
+
+These objectives raise the following research questions:
+
+\subsection{Research questions}
+\begin{enumerate}
+    \item How can the temperature dependence of Lamb waves be utilised for the temperature monitoring of NGVs?\label{itm:1}
+    \item How can the theoretical temperature sensitivity of individual Lamb wave modes be verified experimentally?\label{itm:2}
+    \item What is the effect of the physical environment on Lamb wave propagation in NGVs?\label{itm:3}
+\begin{itemize}
+    \item High temperatures
+    \item Cooling holes
+    \item Curved surfaces
+\end{itemize}
+    \item Which of the Lamb wave modes (or group of modes) is most appropriate for temperature monitoring of NGVs?\label{itm:4}
+    \item To what extent can acoustic reflections from cooling holes be used to monitor temperature at a number of locations across the structure of an NGV?\label{itm:5}
+    \item What is the most suitable transducer configuration for exciting Lamb waves in NGVs?\label{itm:6}
+\end{enumerate}
+
+Upon completion of the PhD the research questions listed above will have been addressed, which will lead to a conclusion on how a guided wave based temperature monitoring system can be implemented on a nozzle guide vane. The effect of the physical environment on wave propagation will be known, and the most suitable modal region of temperature monitoring will have been identified. The extent to which the wave interaction with cooling holes can be used to monitor temperature at a number of locations will be known. A measurement system that can theoretically operate at high temperatures will have been identified. The outcome of these studies can form the basis of future investigations into the design of a measurement system suitable for use at high temperatures, and the testing of a system on an installed NGV. 
+
+\section{Research output}
+\begin{itemize}
+    \item Student poster ``Temperature monitoring of nozzle guide vanes (NGVs) using ultrasonic guided waves'' presented at \href{https://event.asme.org/Turbo-Expo}{ASME Turbo Expo 2020.} Virtual conference 21--25 September 2020.
+    \item Journal review paper ``Surface temperature condition monitoring methods for aerospace turbomachinery: exploring the use of ultrasonic guided waves''~\cite{Yule2021} published to \href{https://iopscience.iop.org/journal/0957-0233}{IOP Measurement, Science, and Technology.}
+    \item Conference paper ``Towards in-flight temperature monitoring for nozzle guide vanes using ultrasonic guided waves'' accepted for \href{https://www.aiaa.org/propulsionenergy}{AIAA Propulsion Energy}, 9--11 August 2021.
+    \item Journal paper on the COMSOL modelling of a guided wave sensor system for harsh environments to be submitted to \href{https://www.mdpi.com/journal/sensors}{MDPI Sensors} in the near future.
+\end{itemize}

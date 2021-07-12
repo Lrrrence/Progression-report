@@ -23,16 +23,19 @@
 \contentsline {figure}{\numberline {3.10}{\ignorespaces $A_0$, $S_0$, $A_1$, and $S_1$ group velocity dispersion curve shift with temperature from 21\si {\degreeCelsius } to 1093\si {\degreeCelsius } for Inconel 718.\relax }}{34}{figure.caption.25}%
 \contentsline {figure}{\numberline {3.11}{\ignorespaces $A_0$ \& $S_0$ group velocity change with temperature from 21\si {\degreeCelsius } to 1093\si {\degreeCelsius } at 1\nobreakspace {}MHz for Inconel 718.\relax }}{35}{figure.caption.26}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Simulated 100 mm wave propagation of 10--cycle 1\nobreakspace {}MHz sine pulse in a 4 mm thick aluminium plate.\relax }}{39}{figure.caption.27}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces $A_0$, $S_0$, $A_1$, and $S_1$ group velocity dispersion curve shift with temperature from 20\si {\degreeCelsius } to 100\si {\degreeCelsius } for Aluminium 1050 H14.\relax }}{40}{figure.caption.28}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces $S_0$, $A_1$, and $S_1$ group velocity change with temperature from 20\si {\degreeCelsius } to 100\si {\degreeCelsius } for Aluminium 1050 H14.\relax }}{40}{figure.caption.29}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces $A_0$, $S_0$, $A_1$, and $S_1$ group velocity dispersion curve shift with temperature from 20\si {\degreeCelsius } to 100\si {\degreeCelsius } for Aluminium 1050 H14.\relax }}{40}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces $S_0$, $A_1$, and $S_1$ group velocity change with temperature from 20\si {\degreeCelsius } to 100\si {\degreeCelsius } for Aluminium 1050 H14.\relax }}{40}{figure.caption.28}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Simulated 100 mm wave propagation of 10--cycle 1\nobreakspace {}MHz sine pulse in a 4 mm thick aluminium plate.\relax }}{41}{figure.caption.29}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces COMSOL geometry diagram\relax }}{43}{figure.caption.31}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Presence of the $A_0$ \& $S_0$ modes.\relax }}{43}{figure.caption.32}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces COMSOL simulation of $S_0$ mode propagation at room temperature.\relax }}{43}{figure.caption.33}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces COMSOL geometry diagram\relax }}{44}{figure.caption.31}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Presence of the $A_0$ \& $S_0$ modes.\relax }}{44}{figure.caption.32}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces COMSOL simulation of $S_0$ mode propagation at room temperature.\relax }}{44}{figure.caption.33}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Cross-sectional diagram of test setup.\relax }}{46}{figure.caption.35}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Photograph of test setup.\relax }}{47}{figure.caption.36}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Time of flight ($t_F$) measurement using cross-correlation function at room temperature.\relax }}{48}{figure.caption.37}%
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Group velocity change with temperature for the $S_0$ mode in Aluminium 1050 H14.\relax }}{49}{figure.caption.38}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Cross-sectional diagram of test setup.\relax }}{47}{figure.caption.35}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Photograph of test setup.\relax }}{48}{figure.caption.36}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Time of flight ($t_F$) measurement using cross-correlation function at room temperature.\relax }}{49}{figure.caption.37}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Group velocity change with temperature for the $S_0$ mode in Aluminium 1050 H14.\relax }}{50}{figure.caption.38}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Group velocity change with temperature for the $A_1$ mode in Aluminium 1050 H14.\relax }}{51}{figure.caption.39}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Time of flight ($t_F$) measurement of $S_1$ mode using envelope peak method at room temperature.\relax }}{52}{figure.caption.40}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Group velocity change with temperature for the $S_1$ mode in Aluminium 1050 H14.\relax }}{52}{figure.caption.41}%
 \addvspace {10\p@ }

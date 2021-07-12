@@ -25,20 +25,23 @@
 \contentsline {section}{\numberline {3.4}Conclusion}{36}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Other applications}{37}{section.3.5}%
 \contentsline {chapter}{\numberline {4}Theoretical temperature sensitivity of Lamb waves}{38}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Multi-modal Lamb waves}{38}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Generation of dispersion curves}{38}{section.4.2}%
-\contentsline {chapter}{\numberline {5}COMSOL simulations of Lamb wave propagation}{41}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Variable angle wedge simulation}{41}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Simulation results}{44}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Experimental investigation of Lamb wave temperature sensitivity}{45}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Test Method}{47}{section.6.1}%
-\contentsline {section}{\numberline {6.2}S0 mode (1 MHz-mm)}{47}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}S0 mode results}{48}{subsection.6.2.1}%
-\contentsline {section}{\numberline {6.3}A1 mode (2.5 MHz-mm)}{49}{section.6.3}%
-\contentsline {section}{\numberline {6.4}S1 mode (4 MHz-mm)}{49}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Experimental sensitivity analysis}{49}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Conclusion}{50}{section.6.6}%
-\contentsline {chapter}{\numberline {7}Research summary \& future plans}{52}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Research summary}{52}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Future plans}{53}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Gantt chart}{53}{section.7.3}%
+\contentsline {section}{\numberline {4.1}Generation of dispersion curves}{38}{section.4.1}%
+\contentsline {section}{\numberline {4.2}The effect of temperature on wave propagation}{39}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Multi-modal Lamb waves}{41}{section.4.3}%
+\contentsline {chapter}{\numberline {5}COMSOL simulations of Lamb wave propagation}{42}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Variable angle wedge simulation}{42}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Simulation results}{45}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Experimental investigation of Lamb wave temperature sensitivity}{46}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Test Method}{48}{section.6.1}%
+\contentsline {section}{\numberline {6.2}S0 mode (1 MHz-mm)}{48}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}S0 mode results}{49}{subsection.6.2.1}%
+\contentsline {section}{\numberline {6.3}A1 mode (2.5 MHz-mm)}{50}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}A1 mode results}{50}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.4}S1 mode (4 MHz-mm)}{51}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}S1 mode results}{51}{subsection.6.4.1}%
+\contentsline {section}{\numberline {6.5}Experimental sensitivity analysis}{53}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Conclusion}{53}{section.6.6}%
+\contentsline {chapter}{\numberline {7}Research summary \& future plans}{55}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Research summary}{55}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Future plans}{56}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Gantt chart}{56}{section.7.3}%
